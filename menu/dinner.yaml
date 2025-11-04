@@ -1,0 +1,548 @@
+course: dinner
+sections:
+  - name: Appetizers
+    items:
+      - slug: tuna-ceviche
+        name: Tuna Ceviche
+        description: Ahi tuna tossed with figs, pistachios, red onion, and fresh herbs over arugula with a soy-olive oil drizzle.
+        ingredients:
+          - Ahi tuna
+          - Figs
+          - Pistachios
+          - Red onion
+          - Olive oil
+          - Soy sauce
+          - Fresh herbs
+          - Arugula
+      - slug: beef-carpaccio
+        name: Beef Carpaccio
+        description: Thinly sliced raw tenderloin layered with arugula, capers, and shaved Parmigiano in bright lemon vinaigrette.
+        ingredients:
+          - Beef tenderloin
+          - Arugula
+          - Capers
+          - Lemon vinaigrette
+          - Parmigiano-Reggiano
+      - slug: avocado-fusion-delight
+        name: Avocado Fusion Delight
+        description: Diced avocado mingled with roasted peppers and onions, finished with roasted tomato basil drizzle and garlic toast.
+        ingredients:
+          - Avocado
+          - Roasted red peppers
+          - Roasted red onions
+          - Roasted tomato basil drizzle
+          - Garlic toast
+      - slug: caprese-salad
+        name: Caprese
+        description: Sliced tomatoes and roasted red peppers layered with fresh mozzarella, finished with balsamic glaze and basil oil.
+        ingredients:
+          - Tomatoes
+          - Roasted red peppers
+          - Fresh mozzarella
+          - Balsamic glaze
+          - Basil oil
+      - slug: golden-yum-yum-shrimp
+        name: Golden Yum Yum Shrimp
+        description: Crispy fried shrimp tossed in house-made spicy yum yum sauce.
+        ingredients:
+          - Shrimp
+          - House yum yum sauce
+          - Seasoned batter
+      - slug: fried-breaded-mozzarella
+        name: Fried Breaded Fresh Mozzarella
+        description: Hand-breaded mozzarella served hot with house tomato sauce.
+        ingredients:
+          - Fresh mozzarella
+          - Breadcrumbs
+          - Tomato sauce
+      - slug: clams-portofino
+        name: Clams Portofino
+        description: Littleneck clams sautéed with capers, olives, ripe tomatoes, garlic, and basil.
+        ingredients:
+          - Littleneck clams
+          - Capers
+          - Black olives
+          - Tomatoes
+          - Garlic
+          - Basil
+      - slug: pei-mussels
+        name: PEI Mussels
+        description: Prince Edward Island mussels simmered in house tomato or white wine sauce with olives and capers.
+        ingredients:
+          - Mussels
+          - Black olives
+          - Capers
+          - Tomato sauce
+          - White wine sauce
+          - Garlic
+          - Basil
+      - slug: fried-calamari
+        name: Fried Calamari
+        description: Lightly breaded calamari rings fried crisp and served with house tomato sauce.
+        ingredients:
+          - Calamari
+          - Seasoned batter
+          - Tomato sauce
+      - slug: figs-flatbread
+        name: Figs Flatbread
+        description: Crisp flatbread with blue cheese spread, figs, roasted peppers, tomatoes, olives, mozzarella, and arugula.
+        ingredients:
+          - Flatbread dough
+          - Blue cheese spread
+          - Figs
+          - Roasted red peppers
+          - Tomatoes
+          - Black olives
+          - Mozzarella
+          - Arugula
+  - name: Soups & Salads
+    items:
+      - slug: soup-of-the-day
+        name: Soup of the Day
+        description: Chef's rotating soup made from seasonal ingredients.
+        ingredients:
+          - Seasonal ingredients
+      - slug: house-salad
+        name: House Salad
+        description: Mixed greens with grape tomatoes, red onion, cucumber, and zinfandel vinaigrette.
+        ingredients:
+          - Mixed greens
+          - Grape tomatoes
+          - Red onion
+          - Cucumber
+          - Zinfandel vinaigrette
+      - slug: caesar-salad
+        name: Caesar Salad
+        description: Chopped romaine tossed with house Caesar dressing and rustic croutons.
+        ingredients:
+          - Romaine lettuce
+          - Caesar dressing
+          - Croutons
+          - Parmigiano-Reggiano
+      - slug: mediterranean-salad
+        name: Mediterranean Salad
+        description: Tomatoes, kalamata olives, roasted peppers, cucumbers, onion, and arugula with red wine vinaigrette and basil oil.
+        ingredients:
+          - Tomatoes
+          - Kalamata olives
+          - Roasted peppers
+          - Cucumbers
+          - Red onion
+          - Arugula
+          - Red wine vinaigrette
+          - Basil oil
+          - Feta cheese
+      - slug: figs-salad
+        name: Figs Salad
+        description: Mixed greens with figs, mandarin oranges, pistachios, gorgonzola, and zinfandel vinaigrette.
+        ingredients:
+          - Mixed greens
+          - Figs
+          - Mandarin oranges
+          - Pistachios
+          - Zinfandel vinaigrette
+          - Gorgonzola
+      - slug: capricciosa-salad
+        name: Capricciosa Salad
+        description: Baby arugula with fresh mozzarella, diced tomatoes, and balsamic vinaigrette.
+        ingredients:
+          - Baby arugula
+          - Red onion
+          - Fresh mozzarella
+          - Tomatoes
+          - Balsamic vinaigrette
+      - slug: wedge-salad
+        name: Wedge Salad
+        description: Romaine heart with blue cheese dressing, bacon, tomato, red onion, and balsamic reduction.
+        ingredients:
+          - Romaine heart
+          - Blue cheese dressing
+          - Bacon
+          - Grape tomatoes
+          - Red onion
+          - Balsamic reduction
+      - slug: salad-protein-addons
+        name: Salad Protein Add-Ons
+        description: Enhance any salad with your choice of grilled or seafood proteins.
+        options:
+          - Grilled chicken
+          - Shrimp
+          - Salmon
+          - Cajun cod
+          - Ahi tuna
+  - name: Pasta
+    notes: Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.
+    items:
+      - slug: classic-fettuccini-alfredo
+        name: Classic Fettuccini Alfredo
+        description: Fresh fettuccine tossed in a silky parmesan cream sauce.
+        ingredients:
+          - Fettuccine
+          - Parmesan
+          - Cream
+          - Butter
+          - Garlic
+      - slug: pink-vodka-pasta
+        name: Pink Vodka Pasta
+        description: Pasta enveloped in a velvety tomato vodka cream sauce.
+        ingredients:
+          - Pasta
+          - Tomato sauce
+          - Cream
+          - Vodka
+          - Parmesan
+      - slug: quattro-formaggi-ravioli
+        name: Quattro Formaggi Ravioli
+        description: Four-cheese ravioli topped with house Bolognese sauce.
+        ingredients:
+          - Cheese ravioli
+          - Bolognese sauce
+      - slug: linguine-clams
+        name: Linguine Clams
+        description: Linguine in garlic white wine sauce brimming with tender clams.
+        ingredients:
+          - Linguine
+          - Clams
+          - Garlic
+          - White wine
+          - Parsley
+      - slug: fettuccini-bolognese
+        name: Fettuccini Bolognese
+        description: Fettuccine with slow-cooked beef, veal, and pork ragù.
+        ingredients:
+          - Fettuccine
+          - Beef
+          - Veal
+          - Pork
+          - Tomatoes
+          - Aromatics
+      - slug: linguine-puttanesca
+        name: Linguine Puttanesca
+        description: Linguine with anchovies, capers, olives, basil, garlic, and house tomato sauce.
+        ingredients:
+          - Linguine
+          - Anchovies
+          - Capers
+          - Black olives
+          - Basil
+          - Garlic
+          - Tomato sauce
+      - slug: cheese-ravioli
+        name: Cheese Ravioli
+        description: Cheese-filled ravioli baked in house tomato sauce with melted mozzarella.
+        ingredients:
+          - Cheese ravioli
+          - Tomato sauce
+          - Mozzarella
+      - slug: gluten-free-garden-pasta
+        name: Gluten-Free Pasta
+        description: Gluten-free pasta with spinach, mushrooms, tomatoes, capers, and garlic tomato sauce topped with smoked gouda.
+        ingredients:
+          - Gluten-free pasta
+          - Spinach
+          - Mushrooms
+          - Tomatoes
+          - Capers
+          - Garlic tomato sauce
+          - Smoked gouda
+      - slug: shrimp-scampi-linguine
+        name: Shrimp Scampi
+        description: Wild shrimp sautéed with capers, oven-dried tomatoes, and lemon white wine butter over linguine.
+        ingredients:
+          - Shrimp
+          - Capers
+          - Oven-dried tomatoes
+          - Garlic
+          - Lemon
+          - White wine
+          - Butter
+          - Linguine
+      - slug: calamari-shrimp-fra-diavolo
+        name: Calamari & Shrimp Fra Diavolo
+        description: Calamari and shrimp in spicy house tomato sauce over linguine.
+        ingredients:
+          - Calamari
+          - Shrimp
+          - Spicy tomato sauce
+          - Garlic
+          - Basil
+          - Linguine
+      - slug: sicilian-penne
+        name: Sicilian Penne
+        description: Penne with sausage, eggplant, spinach, white beans, tomatoes, garlic, and blue cheese crumbs.
+        ingredients:
+          - Penne
+          - Italian sausage
+          - Eggplant
+          - Spinach
+          - White kidney beans
+          - Tomatoes
+          - Garlic
+          - Blue cheese crumbs
+      - slug: linguine-with-meatballs
+        name: Linguine with Meatballs
+        description: Linguine topped with house pork and beef meatballs in tomato sauce.
+        ingredients:
+          - Linguine
+          - Pork meatballs
+          - Beef meatballs
+          - Tomato sauce
+      - slug: cajun-chicken-shrimp-pasta
+        name: Cajun Chicken and Shrimp
+        description: Chicken and shrimp with spinach, mushrooms, and Cajun cream sauce over angel hair pasta.
+        ingredients:
+          - Chicken breast
+          - Shrimp
+          - Spinach
+          - Mushrooms
+          - Cajun cream sauce
+          - Oven-dried tomatoes
+          - Angel hair pasta
+      - slug: linguine-pescatore
+        name: Linguine Pescatore
+        description: Linguine with clams, mussels, shrimp, and calamari in light tomato sauce.
+        ingredients:
+          - Linguine
+          - Clams
+          - Mussels
+          - Shrimp
+          - Calamari
+          - Tomatoes
+          - Garlic
+          - Basil
+  - name: Baked Classics
+    notes: Gluten-free penne substitution available upon request.
+    items:
+      - slug: shrimp-parmigiana
+        name: Shrimp Parmigiana
+        description: Breaded shrimp baked in house tomato sauce with melted mozzarella.
+        ingredients:
+          - Shrimp
+          - Breadcrumbs
+          - Tomato sauce
+          - Mozzarella
+      - slug: chicken-parmigiana
+        name: Chicken Parmigiana
+        description: Breaded chicken breast layered with house tomato sauce and mozzarella.
+        ingredients:
+          - Chicken breast
+          - Breadcrumbs
+          - Tomato sauce
+          - Mozzarella
+      - slug: veal-parmesan
+        name: Veal Parmesan
+        description: Tender veal scallopini baked with tomato sauce and mozzarella.
+        ingredients:
+          - Veal scallopini
+          - Tomato sauce
+          - Mozzarella
+      - slug: eggplant-parmigiana
+        name: Eggplant Parmigiana
+        description: Breaded eggplant baked with tomato sauce and melted mozzarella.
+        ingredients:
+          - Eggplant
+          - Breadcrumbs
+          - Tomato sauce
+          - Mozzarella
+      - slug: house-lasagna
+        name: Lasagna
+        description: Layers of pasta with pork, beef, and veal meat sauce, ricotta, and parmesan.
+        ingredients:
+          - Pasta sheets
+          - Pork
+          - Beef
+          - Veal
+          - Tomato sauce
+          - Ricotta
+          - Parmesan
+  - name: Fish Specialties
+    items:
+      - slug: salmon-piccata
+        name: Salmon Piccata
+        description: Grilled salmon with capers in white wine butter sauce served with vegetables and mashed potatoes.
+        ingredients:
+          - Salmon
+          - Capers
+          - White wine butter sauce
+          - Seasonal vegetables
+          - Mashed potatoes
+      - slug: blackened-cod
+        name: Blackened Cod
+        description: Cajun-spiced cod with creamy spinach, tomatoes, white beans, and mashed potatoes.
+        ingredients:
+          - Cod
+          - Cajun seasoning
+          - Spinach
+          - Tomatoes
+          - White kidney beans
+          - Garlic
+          - Mashed potatoes
+      - slug: grilled-shrimp-plate
+        name: Grilled Shrimp
+        description: Grilled shrimp accompanied by vegetables, mashed potatoes, and roasted tomato basil sauce.
+        ingredients:
+          - Shrimp
+          - Seasonal vegetables
+          - Mashed potatoes
+          - Roasted tomato basil sauce
+      - slug: tuna-avocado-fusion
+        name: Tuna Avocado Fusion
+        description: Seared ahi tuna with avocado, roasted peppers, cucumber, onion, arugula, and roasted tomato basil drizzle with lemon.
+        ingredients:
+          - Ahi tuna
+          - Avocado
+          - Roasted red peppers
+          - Cucumbers
+          - Red onion
+          - Arugula
+          - Roasted tomato basil drizzle
+          - Lemon
+  - name: Poultry, Veal & Meats
+    items:
+      - slug: chicken-francaise
+        name: Chicken Francaise
+        description: Egg-battered chicken cutlets in lemon white wine sauce.
+        ingredients:
+          - Chicken breast
+          - Eggs
+          - Lemon
+          - White wine
+          - Butter
+      - slug: chicken-piccata
+        name: Chicken Piccata
+        description: Chicken sautéed with capers in lemon butter white wine sauce.
+        ingredients:
+          - Chicken breast
+          - Capers
+          - Lemon
+          - Butter
+          - White wine
+      - slug: chicken-marsala
+        name: Chicken Marsala
+        description: Chicken simmered in mushroom Marsala wine sauce.
+        ingredients:
+          - Chicken breast
+          - Mushrooms
+          - Marsala wine
+          - Butter
+          - Herbs
+      - slug: chicken-scampi
+        name: Chicken Scampi
+        description: Chicken tossed with garlic, capers, oven-dried tomatoes, and white wine.
+        ingredients:
+          - Chicken breast
+          - Garlic
+          - Capers
+          - Oven-dried tomatoes
+          - White wine
+          - Butter
+      - slug: veal-francaise
+        name: Veal Francaise
+        description: Egg-battered veal scallopini finished with lemon white wine sauce.
+        ingredients:
+          - Veal scallopini
+          - Eggs
+          - Lemon
+          - White wine
+          - Butter
+      - slug: veal-piccata
+        name: Veal Piccata
+        description: Veal scallopini sautéed with capers in lemon butter sauce.
+        ingredients:
+          - Veal scallopini
+          - Capers
+          - Lemon
+          - Butter
+          - White wine
+      - slug: veal-marsala
+        name: Veal Marsala
+        description: Veal scallopini in rich mushroom Marsala sauce.
+        ingredients:
+          - Veal scallopini
+          - Mushrooms
+          - Marsala wine
+          - Butter
+          - Herbs
+      - slug: chianti-meatloaf
+        name: Meatloaf
+        description: House meatloaf glazed with Chianti demi-glace.
+        ingredients:
+          - Ground beef
+          - Ground pork
+          - Aromatics
+          - Chianti demi-glace
+      - slug: pork-chop-marsala
+        name: Pork Chop Marsala
+        description: Seared pork chops with mushroom Marsala wine sauce.
+        ingredients:
+          - Pork chops
+          - Mushrooms
+          - Marsala wine
+          - Butter
+          - Herbs
+      - slug: baby-back-ribs
+        name: Baby Back Ribs
+        description: Slow-cooked ribs finished with house glaze.
+        ingredients:
+          - Pork ribs
+          - House glaze
+          - Seasoning rub
+      - slug: new-york-strip
+        name: New York Strip
+        description: Grilled 14-ounce USDA Choice strip steak with optional mushroom Marsala sauce.
+        ingredients:
+          - New York strip steak
+          - House seasoning
+          - Mushroom Marsala sauce
+      - slug: chicken-capricciosa
+        name: Chicken Capricciosa
+        description: Breaded chicken with arugula, tomato, red onion, fresh mozzarella, and balsamic vinaigrette served with mashed potatoes.
+        ingredients:
+          - Chicken cutlet
+          - Breadcrumbs
+          - Arugula
+          - Tomatoes
+          - Red onion
+          - Fresh mozzarella
+          - Balsamic vinaigrette
+          - Mashed potatoes
+      - slug: veal-capricciosa
+        name: Veal Capricciosa
+        description: Breaded veal topped with tomatoes, red onion, arugula, feta, and balsamic vinaigrette served with mashed potatoes.
+        ingredients:
+          - Veal cutlet
+          - Breadcrumbs
+          - Tomatoes
+          - Red onion
+          - Arugula
+          - Feta cheese
+          - Balsamic vinaigrette
+          - Mashed potatoes
+  - name: Sides
+    items:
+      - slug: meatballs-side
+        name: Meatballs with Tomato Sauce
+        description: House meatballs simmered in tomato sauce.
+        ingredients:
+          - Meatballs
+          - Tomato sauce
+      - slug: sauteed-broccoli
+        name: Sautéed Broccoli
+        description: Broccoli sautéed with garlic and extra-virgin olive oil.
+        ingredients:
+          - Broccoli
+          - Garlic
+          - Extra-virgin olive oil
+      - slug: sauteed-spinach
+        name: Sautéed Spinach
+        description: Spinach wilted with garlic and olive oil.
+        ingredients:
+          - Spinach
+          - Garlic
+          - Extra-virgin olive oil
+      - slug: sausage-tomato-sauce
+        name: Sausage with Tomato Sauce
+        description: Italian sausage in house tomato sauce.
+        ingredients:
+          - Italian sausage
+          - Tomato sauce

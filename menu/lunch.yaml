@@ -1,0 +1,514 @@
+course: lunch
+sections:
+  - name: Appetizers
+    items:
+      - slug: tuna-ceviche
+        name: Tuna Ceviche
+        description: Ahi tuna with figs, pistachios, red onion, and a soy-olive oil herb dressing over arugula.
+        ingredients:
+          - Ahi tuna
+          - Figs
+          - Pistachios
+          - Red onion
+          - Olive oil
+          - Soy sauce
+          - Fresh herbs
+          - Arugula
+      - slug: avocado-fusion-delight
+        name: Avocado Fusion Delight
+        description: Diced avocado with roasted peppers and onions, finished with a roasted tomato basil drizzle and served with garlic toast.
+        ingredients:
+          - Avocado
+          - Roasted red peppers
+          - Roasted red onions
+          - Roasted tomato basil drizzle
+          - Garlic toast
+      - slug: caprese
+        name: Caprese
+        description: Sliced tomatoes and fresh mozzarella finished with balsamic glaze and basil oil.
+        ingredients:
+          - Tomatoes
+          - Fresh mozzarella
+          - Balsamic glaze
+          - Basil oil
+      - slug: chicken-wings
+        name: Chicken Wings
+        description: Crisp wings served with celery and your choice of blue cheese, available mild, hot, or BBQ.
+        ingredients:
+          - Chicken wings
+          - Celery
+          - Blue cheese dressing
+          - Choice of sauce (mild, hot, BBQ)
+      - slug: golden-yum-yum-shrimp
+        name: Golden Yum Yum Shrimp
+        description: Fried shrimp tossed in a house spicy yum yum sauce.
+        ingredients:
+          - Shrimp
+          - House yum yum sauce
+      - slug: fried-mozzarella
+        name: Fried Fresh Mozzarella
+        description: Lightly breaded fresh mozzarella, fried and served with house tomato sauce.
+        ingredients:
+          - Fresh mozzarella
+          - Breadcrumbs
+          - Tomato sauce
+      - slug: clams-portofino
+        name: Clams Portofino
+        description: Littleneck clams sautéed with capers, olives, tomatoes, garlic, and basil.
+        ingredients:
+          - Littleneck clams
+          - Capers
+          - Black olives
+          - Tomatoes
+          - Garlic
+          - Basil
+      - slug: mussels-red-or-white
+        name: Mussels (Red or White)
+        description: Prince Edward Island mussels prepared in your choice of red (tomato) or white wine sauce.
+        ingredients:
+          - Mussels
+          - Tomato sauce or white wine sauce
+          - Garlic
+          - Herbs
+      - slug: fried-calamari
+        name: Fried Calamari
+        description: Lightly breaded calamari rings fried until crisp and served with tomato sauce.
+        ingredients:
+          - Calamari
+          - Seasoned batter
+          - Tomato sauce
+  - name: Soups & Salads
+    items:
+      - slug: soup-of-the-day
+        name: Soup of the Day
+        description: Chef's rotating soup made from fresh seasonal ingredients.
+        ingredients:
+          - Seasonal produce
+      - slug: house-salad
+        name: House Salad
+        description: Mixed greens with grape tomatoes, red onion, cucumber, and zinfandel vinaigrette.
+        ingredients:
+          - Mixed greens
+          - Grape tomatoes
+          - Red onion
+          - Cucumber
+          - Zinfandel vinaigrette
+      - slug: caesar-salad
+        name: Caesar Salad
+        description: Chopped romaine tossed with house Caesar dressing and rustic croutons.
+        ingredients:
+          - Romaine lettuce
+          - Caesar dressing
+          - Croutons
+          - Parmigiano-Reggiano
+      - slug: mediterranean-salad
+        name: Mediterranean Salad
+        description: Tomatoes, kalamata olives, roasted peppers, cucumbers, onion, arugula, feta, and a red wine vinaigrette.
+        ingredients:
+          - Tomatoes
+          - Kalamata olives
+          - Roasted peppers
+          - Cucumbers
+          - Red onion
+          - Arugula
+          - Feta
+          - Red wine vinaigrette
+      - slug: figs-salad
+        name: Figs Salad
+        description: Mixed greens with figs, mandarin oranges, pistachios, and gorgonzola, finished with zinfandel vinaigrette.
+        ingredients:
+          - Mixed greens
+          - Figs
+          - Mandarin oranges
+          - Pistachios
+          - Gorgonzola
+          - Zinfandel vinaigrette
+      - slug: capricciosa-salad
+        name: Capricciosa Salad
+        description: Baby arugula with fresh mozzarella, tomatoes, and balsamic vinaigrette.
+        ingredients:
+          - Baby arugula
+          - Fresh mozzarella
+          - Tomatoes
+          - Balsamic vinaigrette
+      - slug: wedge-salad
+        name: Wedge Salad
+        description: Romaine heart with blue cheese dressing, bacon, grape tomatoes, and balsamic reduction.
+        ingredients:
+          - Romaine heart
+          - Blue cheese dressing
+          - Bacon
+          - Grape tomatoes
+          - Balsamic reduction
+      - slug: salad-addons
+        name: Salad Add-Ons
+        description: Protein options to enhance your salad.
+        options:
+          - Grilled chicken
+          - Shrimp
+          - Salmon
+          - Cajun cod
+          - Ahi tuna
+  - name: Classic Sandwiches
+    notes: Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.
+    items:
+      - slug: sausage-parmesan
+        name: Sausage Parmesan
+        description: Italian sausage with mozzarella and tomato sauce in a toasted hoagie roll.
+        ingredients:
+          - Italian sausage
+          - Tomato sauce
+          - Mozzarella
+          - Hoagie roll
+      - slug: shrimp-parmesan-sandwich
+        name: Shrimp Parmesan Sandwich
+        description: Lightly breaded shrimp with mozzarella and tomato sauce in a hoagie roll.
+        ingredients:
+          - Shrimp
+          - Tomato sauce
+          - Mozzarella
+          - Hoagie roll
+      - slug: veal-parmesan-sandwich
+        name: Veal Parmesan Sandwich
+        description: Breaded veal with mozzarella and tomato sauce in a hoagie roll.
+        ingredients:
+          - Veal
+          - Tomato sauce
+          - Mozzarella
+          - Hoagie roll
+      - slug: meatball-parmesan-sandwich
+        name: Meatball Parmesan
+        description: Homemade meatballs with tomato sauce and mozzarella in a hoagie roll.
+        ingredients:
+          - Meatballs
+          - Tomato sauce
+          - Mozzarella
+          - Hoagie roll
+      - slug: chicken-parmesan-sandwich
+        name: Chicken Parmesan Sandwich
+        description: Crispy chicken breast with tomato sauce and melted mozzarella in a hoagie roll.
+        ingredients:
+          - Chicken breast
+          - Tomato sauce
+          - Mozzarella
+          - Hoagie roll
+      - slug: philly-cheesesteak
+        name: Philly Cheesesteak
+        description: Shaved rib eye with peppers, mushrooms, onions, and American cheese on a toasted hoagie roll.
+        ingredients:
+          - Rib eye
+          - Peppers
+          - Mushrooms
+          - Onions
+          - American cheese
+      - slug: chicken-caprese-sandwich
+        name: Chicken Caprese
+        description: Grilled chicken with fresh mozzarella, tomato, and balsamic glaze on a brioche bun.
+        ingredients:
+          - Grilled chicken
+          - Fresh mozzarella
+          - Tomato
+          - Balsamic glaze
+          - Brioche bun
+      - slug: chicken-avocado-fusion-sandwich
+        name: Chicken Avocado Fusion
+        description: Grilled chicken with avocado, roasted peppers and onions, and roasted tomato basil drizzle.
+        ingredients:
+          - Grilled chicken
+          - Avocado
+          - Roasted red peppers
+          - Roasted red onions
+          - Roasted tomato basil drizzle
+  - name: Burgers
+    notes: Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.
+    items:
+      - slug: the-classic
+        name: The Classic
+        description: 8 oz beef patty with American cheese, lettuce, tomato, red onion, and house sauce.
+        ingredients:
+          - Beef patty
+          - American cheese
+          - Lettuce
+          - Tomato
+          - Red onion
+          - House sauce
+      - slug: smoky-bbq-bacon-burger
+        name: Smoky BBQ Bacon Burger
+        description: Beef patty topped with crispy bacon, American cheese, fried onion, and BBQ sauce.
+        ingredients:
+          - Beef patty
+          - Bacon
+          - American cheese
+          - Fried onion
+          - BBQ sauce
+      - slug: black-and-blue-cajun-burger
+        name: Black & Blue Cajun Burger
+        description: Blackened beef patty with blue cheese dressing and caramelized onions.
+        ingredients:
+          - Beef patty
+          - Blue cheese
+          - Caramelized onions
+      - slug: burger-avocado-fusion
+        name: Burger Avocado Fusion
+        description: Beef patty topped with avocado, roasted red peppers, and roasted tomato basil drizzle.
+        ingredients:
+          - Beef patty
+          - Avocado
+          - Roasted red peppers
+          - Roasted tomato basil drizzle
+  - name: Flatbreads
+    items:
+      - slug: mediterranean-bliss-flatbread
+        name: Mediterranean Bliss Flatbread
+        description: Kalamata olives, spinach, sun-dried tomato, caramelized onion, feta, mozzarella, and balsamic reduction with arugula.
+        ingredients:
+          - Flatbread dough
+          - Kalamata olives
+          - Spinach
+          - Sun-dried tomatoes
+          - Caramelized onions
+          - Feta
+          - Mozzarella
+          - Arugula
+      - slug: pietros-fig-bacon-flatbread
+        name: Pietro's Fig & Bacon Flatbread
+        description: Bacon, gorgonzola, mozzarella, figs, arugula, and balsamic reduction.
+        ingredients:
+          - Flatbread dough
+          - Bacon
+          - Gorgonzola
+          - Mozzarella
+          - Figs
+          - Arugula
+      - slug: pesto-chicken-delight-flatbread
+        name: Pesto Chicken Delight Flatbread
+        description: Chicken, parmesan, mozzarella, caramelized onion, sun-dried tomato, and basil pesto cream sauce with balsamic reduction.
+        ingredients:
+          - Flatbread dough
+          - Chicken
+          - Parmesan
+          - Mozzarella
+          - Caramelized onions
+          - Sun-dried tomatoes
+          - Basil pesto cream sauce
+      - slug: tuscan-roasted-chicken-flatbread
+        name: Tuscan Roasted Chicken Flatbread
+        description: Grilled chicken with sun-dried tomatoes, marinara, and mozzarella topped with basil.
+        ingredients:
+          - Flatbread dough
+          - Grilled chicken
+          - Sun-dried tomatoes
+          - Marinara
+          - Mozzarella
+          - Basil
+      - slug: coastal-chicken-flatbread
+        name: Coastal Chicken Flatbread
+        description: Grilled chicken with blue cheese spread, roasted red peppers, tomatoes, mozzarella, and hot sauce with arugula.
+        ingredients:
+          - Flatbread dough
+          - Grilled chicken
+          - Blue cheese spread
+          - Roasted red peppers
+          - Tomatoes
+          - Mozzarella
+          - Hot sauce
+          - Arugula
+      - slug: shrimp-sensation-flatbread
+        name: Shrimp Sensation Flatbread
+        description: Shrimp pieces with green peppers, onions, roasted red peppers, yum yum sauce, kalamata olives, and arugula.
+        ingredients:
+          - Flatbread dough
+          - Shrimp
+          - Green peppers
+          - Onions
+          - Roasted red peppers
+          - Yum yum sauce
+          - Kalamata olives
+          - Arugula
+  - name: Lunch Pasta
+    items:
+      - slug: alfredo-linguine-or-penne
+        name: Alfredo (Linguine or Penne)
+        description: Creamy parmesan Alfredo available with linguine or penne.
+        ingredients:
+          - Pasta
+          - Parmesan
+          - Cream
+          - Butter
+      - slug: pink-vodka-linguine-or-penne
+        name: Pink Vodka (Linguine or Penne)
+        description: Pasta in a tomato vodka cream sauce available with linguine or penne.
+        ingredients:
+          - Pasta
+          - Tomato vodka sauce
+          - Parmesan
+      - slug: fettuccini-bolognese-lunch
+        name: Fettuccini Bolognese
+        description: House-made ragù of beef, veal, and pork served over fettuccine.
+        ingredients:
+          - Fettuccine
+          - Beef ragù
+          - Veal
+          - Pork
+      - slug: cheese-ravioli-lunch
+        name: Cheese Ravioli
+        description: Cheese ravioli served with tomato sauce and melted mozzarella.
+        ingredients:
+          - Cheese ravioli
+          - Tomato sauce
+          - Mozzarella
+      - slug: gluten-free-pasta-lunch
+        name: Gluten-Free Pasta
+        description: Gluten-free pasta with spinach, mushrooms, garlic, tomatoes, and caper tomato sauce.
+        ingredients:
+          - Gluten-free pasta
+          - Spinach
+          - Mushrooms
+          - Tomatoes
+          - Capers
+      - slug: calamari-fra-diavolo-lunch
+        name: Calamari Fra Diavolo
+        description: Calamari in a spicy tomato sauce served with linguine.
+        ingredients:
+          - Calamari
+          - Spicy tomato sauce
+          - Garlic
+          - Basil
+      - slug: sicilian-penne-lunch
+        name: Sicilian Penne
+        description: Penne with sausage, broccoli, white beans, tomatoes, garlic, and ricotta.
+        ingredients:
+          - Penne
+          - Sausage
+          - Broccoli
+          - White kidney beans
+          - Tomatoes
+          - Garlic
+          - Ricotta
+      - slug: linguine-with-meatballs-lunch
+        name: Linguine with Meatballs
+        description: Linguine topped with pork and veal meatballs in tomato sauce.
+        ingredients:
+          - Linguine
+          - Meatballs
+          - Tomato sauce
+      - slug: lasagna-lunch
+        name: Lasagna
+        description: Classic layered pasta with pork and veal meat sauce, ricotta, and parmesan.
+        ingredients:
+          - Pasta sheets
+          - Pork
+          - Veal
+          - Ricotta
+          - Parmesan
+      - slug: cajun-chicken-lunch
+        name: Cajun Chicken
+        description: Chicken with spinach and mushrooms in a Cajun cream sauce over linguine.
+        ingredients:
+          - Chicken
+          - Spinach
+          - Mushrooms
+          - Cajun cream sauce
+  - name: Baked Lunch Classics
+    items:
+      - slug: shrimp-parmesan-lunch
+        name: Shrimp Parmesan
+        description: Lightly breaded shrimp baked with tomato sauce and mozzarella.
+        ingredients:
+          - Shrimp
+          - Tomato sauce
+          - Mozzarella
+      - slug: chicken-parmesan-lunch
+        name: Chicken Parmesan
+        description: Breaded chicken breast baked with tomato sauce and mozzarella.
+        ingredients:
+          - Chicken breast
+          - Tomato sauce
+          - Mozzarella
+      - slug: eggplant-parmigiana-lunch
+        name: Eggplant Parmigiana
+        description: Breaded and baked eggplant layered with tomato sauce and melted mozzarella.
+        ingredients:
+          - Eggplant
+          - Tomato sauce
+          - Mozzarella
+  - name: Poultry & Meats (Lunch)
+    items:
+      - slug: chicken-francaise-lunch
+        name: Chicken Francaise
+        description: Egg-battered chicken cutlets in lemon white wine sauce.
+        ingredients:
+          - Chicken breast
+          - Eggs
+          - Lemon
+          - White wine
+      - slug: chicken-piccata-lunch
+        name: Chicken Piccata
+        description: Chicken sautéed with capers in lemon butter white wine sauce.
+        ingredients:
+          - Chicken breast
+          - Capers
+          - Lemon
+          - Butter
+      - slug: chicken-marsala-lunch
+        name: Chicken Marsala
+        description: Chicken simmered in mushroom Marsala sauce.
+        ingredients:
+          - Chicken breast
+          - Mushrooms
+          - Marsala wine
+  - name: Happy Hour / Small Plates
+    items:
+      - slug: baby-shrimp-scampi-and-garlic-bread
+        name: Baby Shrimp Scampi and Garlic Bread
+        description: Shrimp scampi served with garlic bread as a shareable small plate.
+        ingredients:
+          - Shrimp
+          - Garlic bread
+      - slug: flatbread-variety
+        name: Flatbread Variety
+        description: Selection of small flatbreads including pepperoni, Margherita, Napoli, and Philly cheesesteak styles.
+        ingredients:
+          - Flatbread
+      - slug: bruschetta-variety
+        name: Bruschetta Trio
+        description: Trio of bruschetta toppings such as gorgonzola-fig, roasted red pepper, and classic tomato.
+        ingredients:
+          - Bread
+          - Toppings
+      - slug: mozzarella-and-tomato-tower
+        name: Mozzarella and Tomato Tower
+        description: Layered fresh mozzarella and tomato with basil and balsamic.
+        ingredients:
+          - Fresh mozzarella
+          - Tomato
+          - Basil
+      - slug: fried-ravioli
+        name: Fried Ravioli
+        description: Crispy fried ravioli served with dipping sauce.
+        ingredients:
+          - Ravioli
+          - Breadcrumbs
+          - Dipping sauce
+      - slug: chicken-tenders-hh
+        name: Chicken Tenders with Honey Mustard
+        description: Crispy chicken tenders served with honey mustard for dipping.
+        ingredients:
+          - Chicken tenders
+          - Honey mustard
+      - slug: calamari-hh
+        name: Calamari (Happy Hour)
+        description: Lightly breaded calamari served with dipping sauce.
+        ingredients:
+          - Calamari
+      - slug: wings-hh
+        name: Wings (5)
+        description: Five wings served with your choice of sauce.
+        ingredients:
+          - Chicken wings
+      - slug: mussels-hh
+        name: Mussels (Happy Hour)
+        description: Mussels prepared in red or white sauce, a perfect small plate to share.
+        ingredients:
+          - Mussels
+          - Tomato or white wine sauce
