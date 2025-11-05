@@ -1,0 +1,20 @@
+{
+  "slug": "shrimp-sensation-flatbread",
+  "name": "Shrimp Sensation Flatbread",
+  "description": "Shrimp pieces with green peppers, onions, roasted red peppers, yum yum sauce, kalamata olives, and arugula.",
+  "course": "lunch",
+  "section": "Flatbreads",
+  "ingredients": [
+    "Flatbread dough",
+    "Shrimp",
+    "Green peppers",
+    "Onions",
+    "Roasted red peppers",
+    "Yum yum sauce",
+    "Kalamata olives",
+    "Arugula"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

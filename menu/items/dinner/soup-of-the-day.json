@@ -1,0 +1,13 @@
+{
+  "slug": "soup-of-the-day",
+  "name": "Soup of the Day",
+  "description": "Chef's rotating soup made from seasonal ingredients.",
+  "course": "dinner",
+  "section": "Soups & Salads",
+  "ingredients": [
+    "Seasonal ingredients"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "sauteed-broccoli",
+  "name": "Sautéed Broccoli",
+  "description": "Broccoli sautéed with garlic and extra-virgin olive oil.",
+  "course": "dinner",
+  "section": "Sides",
+  "ingredients": [
+    "Broccoli",
+    "Garlic",
+    "Extra-virgin olive oil"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

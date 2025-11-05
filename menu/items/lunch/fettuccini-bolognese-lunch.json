@@ -1,0 +1,16 @@
+{
+  "slug": "fettuccini-bolognese-lunch",
+  "name": "Fettuccini Bolognese",
+  "description": "House-made ragù of beef, veal, and pork served over fettuccine.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Fettuccine",
+    "Beef ragù",
+    "Veal",
+    "Pork"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

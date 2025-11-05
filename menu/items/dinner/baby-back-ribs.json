@@ -1,0 +1,15 @@
+{
+  "slug": "baby-back-ribs",
+  "name": "Baby Back Ribs",
+  "description": "Slow-cooked ribs finished with house glaze.",
+  "course": "dinner",
+  "section": "Poultry, Veal & Meats",
+  "ingredients": [
+    "Pork ribs",
+    "House glaze",
+    "Seasoning rub"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "pesto-chicken-delight-flatbread",
+  "name": "Pesto Chicken Delight Flatbread",
+  "description": "Chicken, parmesan, mozzarella, caramelized onion, sun-dried tomato, and basil pesto cream sauce with balsamic reduction.",
+  "course": "lunch",
+  "section": "Flatbreads",
+  "ingredients": [
+    "Flatbread dough",
+    "Chicken",
+    "Parmesan",
+    "Mozzarella",
+    "Caramelized onions",
+    "Sun-dried tomatoes",
+    "Basil pesto cream sauce"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

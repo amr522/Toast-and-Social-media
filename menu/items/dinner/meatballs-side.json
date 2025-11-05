@@ -1,0 +1,14 @@
+{
+  "slug": "meatballs-side",
+  "name": "Meatballs with Tomato Sauce",
+  "description": "House meatballs simmered in tomato sauce.",
+  "course": "dinner",
+  "section": "Sides",
+  "ingredients": [
+    "Meatballs",
+    "Tomato sauce"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

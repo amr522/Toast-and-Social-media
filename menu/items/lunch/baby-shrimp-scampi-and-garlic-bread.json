@@ -1,0 +1,14 @@
+{
+  "slug": "baby-shrimp-scampi-and-garlic-bread",
+  "name": "Baby Shrimp Scampi and Garlic Bread",
+  "description": "Shrimp scampi served with garlic bread as a shareable small plate.",
+  "course": "lunch",
+  "section": "Happy Hour / Small Plates",
+  "ingredients": [
+    "Shrimp",
+    "Garlic bread"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

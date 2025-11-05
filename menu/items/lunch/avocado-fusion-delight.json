@@ -1,0 +1,17 @@
+{
+  "slug": "avocado-fusion-delight",
+  "name": "Avocado Fusion Delight",
+  "description": "Diced avocado with roasted peppers and onions, finished with a roasted tomato basil drizzle and served with garlic toast.",
+  "course": "lunch",
+  "section": "Appetizers",
+  "ingredients": [
+    "Avocado",
+    "Roasted red peppers",
+    "Roasted red onions",
+    "Roasted tomato basil drizzle",
+    "Garlic toast"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

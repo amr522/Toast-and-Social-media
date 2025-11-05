@@ -480,6 +480,16 @@ sections:
           - Marsala wine
           - Butter
           - Herbs
+      - slug: pork-osso-buco
+        name: Pork Osso Buco
+        description: Slow-braised pork shank with rich tomato wine sauce served over creamy polenta.
+        ingredients:
+          - Pork shank
+          - Tomatoes
+          - Red wine
+          - Mirepoix
+          - Herbs
+          - Creamy polenta
       - slug: baby-back-ribs
         name: Baby Back Ribs
         description: Slow-cooked ribs finished with house glaze.

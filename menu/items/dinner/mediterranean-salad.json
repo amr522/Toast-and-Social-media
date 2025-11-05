@@ -1,0 +1,24 @@
+{
+  "slug": "mediterranean-salad",
+  "name": "Mediterranean Salad",
+  "description": "Tomatoes, kalamata olives, roasted peppers, cucumbers, onion, and arugula with red wine vinaigrette and basil oil.",
+  "course": "dinner",
+  "section": "Soups & Salads",
+  "ingredients": [
+    "Tomatoes",
+    "Kalamata olives",
+    "Roasted peppers",
+    "Cucumbers",
+    "Red onion",
+    "Arugula",
+    "Red wine vinaigrette",
+    "Basil oil",
+    "Feta cheese"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/mediterranean-salad.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.734128+00:00"
+}

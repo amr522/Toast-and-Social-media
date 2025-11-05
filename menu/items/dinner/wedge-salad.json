@@ -1,0 +1,21 @@
+{
+  "slug": "wedge-salad",
+  "name": "Wedge Salad",
+  "description": "Romaine heart with blue cheese dressing, bacon, tomato, red onion, and balsamic reduction.",
+  "course": "dinner",
+  "section": "Soups & Salads",
+  "ingredients": [
+    "Romaine heart",
+    "Blue cheese dressing",
+    "Bacon",
+    "Grape tomatoes",
+    "Red onion",
+    "Balsamic reduction"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/wedge-salad.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.735220+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "sausage-parmesan",
+  "name": "Sausage Parmesan",
+  "description": "Italian sausage with mozzarella and tomato sauce in a toasted hoagie roll.",
+  "course": "lunch",
+  "section": "Classic Sandwiches",
+  "section_notes": "Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.",
+  "ingredients": [
+    "Italian sausage",
+    "Tomato sauce",
+    "Mozzarella",
+    "Hoagie roll"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

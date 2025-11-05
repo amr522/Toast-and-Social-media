@@ -1,0 +1,18 @@
+{
+  "slug": "new-york-strip",
+  "name": "New York Strip",
+  "description": "Grilled 14-ounce USDA Choice strip steak with optional mushroom Marsala sauce.",
+  "course": "dinner",
+  "section": "Poultry, Veal & Meats",
+  "ingredients": [
+    "New York strip steak",
+    "House seasoning",
+    "Mushroom Marsala sauce"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/new-york-strip.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.728077+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "golden-yum-yum-shrimp",
+  "name": "Golden Yum Yum Shrimp",
+  "description": "Crispy fried shrimp tossed in house-made spicy yum yum sauce.",
+  "course": "dinner",
+  "section": "Appetizers",
+  "ingredients": [
+    "Shrimp",
+    "House yum yum sauce",
+    "Seasoned batter"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/golden-yum-yum-shrimp.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.731056+00:00"
+}

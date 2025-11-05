@@ -1,0 +1,21 @@
+{
+  "slug": "sicilian-penne",
+  "name": "Sicilian Penne",
+  "description": "Penne with sausage, eggplant, spinach, white beans, tomatoes, garlic, and blue cheese crumbs.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Penne",
+    "Italian sausage",
+    "Eggplant",
+    "Spinach",
+    "White kidney beans",
+    "Tomatoes",
+    "Garlic",
+    "Blue cheese crumbs"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "chicken-piccata-lunch",
+  "name": "Chicken Piccata",
+  "description": "Chicken sautéed with capers in lemon butter white wine sauce.",
+  "course": "lunch",
+  "section": "Poultry & Meats (Lunch)",
+  "ingredients": [
+    "Chicken breast",
+    "Capers",
+    "Lemon",
+    "Butter"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

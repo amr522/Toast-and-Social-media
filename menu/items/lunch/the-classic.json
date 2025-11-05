@@ -1,0 +1,22 @@
+{
+  "slug": "the-classic",
+  "name": "The Classic",
+  "description": "8 oz beef patty with American cheese, lettuce, tomato, red onion, and house sauce.",
+  "course": "lunch",
+  "section": "Burgers",
+  "section_notes": "Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.",
+  "ingredients": [
+    "Beef patty",
+    "American cheese",
+    "Lettuce",
+    "Tomato",
+    "Red onion",
+    "House sauce"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [
+    "data/the-classic.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.737915+00:00"
+}

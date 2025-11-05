@@ -1,0 +1,15 @@
+{
+  "slug": "fried-mozzarella",
+  "name": "Fried Fresh Mozzarella",
+  "description": "Lightly breaded fresh mozzarella, fried and served with house tomato sauce.",
+  "course": "lunch",
+  "section": "Appetizers",
+  "ingredients": [
+    "Fresh mozzarella",
+    "Breadcrumbs",
+    "Tomato sauce"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

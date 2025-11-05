@@ -1,0 +1,17 @@
+{
+  "slug": "chicken-parmigiana",
+  "name": "Chicken Parmigiana",
+  "description": "Breaded chicken breast layered with house tomato sauce and mozzarella.",
+  "course": "dinner",
+  "section": "Baked Classics",
+  "section_notes": "Gluten-free penne substitution available upon request.",
+  "ingredients": [
+    "Chicken breast",
+    "Breadcrumbs",
+    "Tomato sauce",
+    "Mozzarella"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

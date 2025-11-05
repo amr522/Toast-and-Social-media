@@ -1,0 +1,20 @@
+{
+  "slug": "veal-capricciosa",
+  "name": "Veal Capricciosa",
+  "description": "Breaded veal topped with tomatoes, red onion, arugula, feta, and balsamic vinaigrette served with mashed potatoes.",
+  "course": "dinner",
+  "section": "Poultry, Veal & Meats",
+  "ingredients": [
+    "Veal cutlet",
+    "Breadcrumbs",
+    "Tomatoes",
+    "Red onion",
+    "Arugula",
+    "Feta cheese",
+    "Balsamic vinaigrette",
+    "Mashed potatoes"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

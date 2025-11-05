@@ -1,0 +1,19 @@
+{
+  "slug": "blackened-cod",
+  "name": "Blackened Cod",
+  "description": "Cajun-spiced cod with creamy spinach, tomatoes, white beans, and mashed potatoes.",
+  "course": "dinner",
+  "section": "Fish Specialties",
+  "ingredients": [
+    "Cod",
+    "Cajun seasoning",
+    "Spinach",
+    "Tomatoes",
+    "White kidney beans",
+    "Garlic",
+    "Mashed potatoes"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

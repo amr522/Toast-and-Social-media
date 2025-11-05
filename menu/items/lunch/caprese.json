@@ -1,0 +1,16 @@
+{
+  "slug": "caprese",
+  "name": "Caprese",
+  "description": "Sliced tomatoes and fresh mozzarella finished with balsamic glaze and basil oil.",
+  "course": "lunch",
+  "section": "Appetizers",
+  "ingredients": [
+    "Tomatoes",
+    "Fresh mozzarella",
+    "Balsamic glaze",
+    "Basil oil"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

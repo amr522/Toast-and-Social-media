@@ -1,0 +1,18 @@
+{
+  "slug": "chicken-caprese-sandwich",
+  "name": "Chicken Caprese",
+  "description": "Grilled chicken with fresh mozzarella, tomato, and balsamic glaze on a brioche bun.",
+  "course": "lunch",
+  "section": "Classic Sandwiches",
+  "section_notes": "Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.",
+  "ingredients": [
+    "Grilled chicken",
+    "Fresh mozzarella",
+    "Tomato",
+    "Balsamic glaze",
+    "Brioche bun"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

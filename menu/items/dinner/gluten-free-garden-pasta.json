@@ -1,0 +1,20 @@
+{
+  "slug": "gluten-free-garden-pasta",
+  "name": "Gluten-Free Pasta",
+  "description": "Gluten-free pasta with spinach, mushrooms, tomatoes, capers, and garlic tomato sauce topped with smoked gouda.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Gluten-free pasta",
+    "Spinach",
+    "Mushrooms",
+    "Tomatoes",
+    "Capers",
+    "Garlic tomato sauce",
+    "Smoked gouda"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

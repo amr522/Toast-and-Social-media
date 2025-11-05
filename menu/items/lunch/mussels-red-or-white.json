@@ -1,0 +1,16 @@
+{
+  "slug": "mussels-red-or-white",
+  "name": "Mussels (Red or White)",
+  "description": "Prince Edward Island mussels prepared in your choice of red (tomato) or white wine sauce.",
+  "course": "lunch",
+  "section": "Appetizers",
+  "ingredients": [
+    "Mussels",
+    "Tomato sauce or white wine sauce",
+    "Garlic",
+    "Herbs"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "figs-flatbread",
+  "name": "Figs Flatbread",
+  "description": "Crisp flatbread with blue cheese spread, figs, roasted peppers, tomatoes, olives, mozzarella, and arugula.",
+  "course": "dinner",
+  "section": "Appetizers",
+  "ingredients": [
+    "Flatbread dough",
+    "Blue cheese spread",
+    "Figs",
+    "Roasted red peppers",
+    "Tomatoes",
+    "Black olives",
+    "Mozzarella",
+    "Arugula"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/figs-flatbread.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.711707+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "salad-protein-addons",
+  "name": "Salad Protein Add-Ons",
+  "description": "Enhance any salad with your choice of grilled or seafood proteins.",
+  "course": "dinner",
+  "section": "Soups & Salads",
+  "options": [
+    "Grilled chicken",
+    "Shrimp",
+    "Salmon",
+    "Cajun cod",
+    "Ahi tuna"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

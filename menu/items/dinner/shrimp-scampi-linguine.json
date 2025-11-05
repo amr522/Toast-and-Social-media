@@ -1,0 +1,24 @@
+{
+  "slug": "shrimp-scampi-linguine",
+  "name": "Shrimp Scampi",
+  "description": "Wild shrimp sautéed with capers, oven-dried tomatoes, and lemon white wine butter over linguine.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Shrimp",
+    "Capers",
+    "Oven-dried tomatoes",
+    "Garlic",
+    "Lemon",
+    "White wine",
+    "Butter",
+    "Linguine"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/shrimp-scampi-linguine.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.716723+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "calamari-fra-diavolo-lunch",
+  "name": "Calamari Fra Diavolo",
+  "description": "Calamari in a spicy tomato sauce served with linguine.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Calamari",
+    "Spicy tomato sauce",
+    "Garlic",
+    "Basil"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

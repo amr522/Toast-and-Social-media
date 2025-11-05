@@ -1,0 +1,16 @@
+{
+  "slug": "cajun-chicken-lunch",
+  "name": "Cajun Chicken",
+  "description": "Chicken with spinach and mushrooms in a Cajun cream sauce over linguine.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Chicken",
+    "Spinach",
+    "Mushrooms",
+    "Cajun cream sauce"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

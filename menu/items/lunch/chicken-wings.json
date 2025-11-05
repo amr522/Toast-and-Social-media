@@ -1,0 +1,16 @@
+{
+  "slug": "chicken-wings",
+  "name": "Chicken Wings",
+  "description": "Crisp wings served with celery and your choice of blue cheese, available mild, hot, or BBQ.",
+  "course": "lunch",
+  "section": "Appetizers",
+  "ingredients": [
+    "Chicken wings",
+    "Celery",
+    "Blue cheese dressing",
+    "Choice of sauce (mild, hot, BBQ)"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "alfredo-linguine-or-penne",
+  "name": "Alfredo (Linguine or Penne)",
+  "description": "Creamy parmesan Alfredo available with linguine or penne.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Pasta",
+    "Parmesan",
+    "Cream",
+    "Butter"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

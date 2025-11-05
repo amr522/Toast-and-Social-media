@@ -1,0 +1,20 @@
+{
+  "slug": "tuna-ceviche",
+  "name": "Tuna Ceviche",
+  "description": "Ahi tuna with figs, pistachios, red onion, and a soy-olive oil herb dressing over arugula.",
+  "course": "lunch",
+  "section": "Appetizers",
+  "ingredients": [
+    "Ahi tuna",
+    "Figs",
+    "Pistachios",
+    "Red onion",
+    "Olive oil",
+    "Soy sauce",
+    "Fresh herbs",
+    "Arugula"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

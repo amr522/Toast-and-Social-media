@@ -1,0 +1,18 @@
+{
+  "slug": "clams-portofino",
+  "name": "Clams Portofino",
+  "description": "Littleneck clams sautéed with capers, olives, tomatoes, garlic, and basil.",
+  "course": "lunch",
+  "section": "Appetizers",
+  "ingredients": [
+    "Littleneck clams",
+    "Capers",
+    "Black olives",
+    "Tomatoes",
+    "Garlic",
+    "Basil"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

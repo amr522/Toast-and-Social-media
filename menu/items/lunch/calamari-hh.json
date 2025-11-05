@@ -1,0 +1,13 @@
+{
+  "slug": "calamari-hh",
+  "name": "Calamari (Happy Hour)",
+  "description": "Lightly breaded calamari served with dipping sauce.",
+  "course": "lunch",
+  "section": "Happy Hour / Small Plates",
+  "ingredients": [
+    "Calamari"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

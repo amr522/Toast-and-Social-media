@@ -1,0 +1,14 @@
+{
+  "slug": "mussels-hh",
+  "name": "Mussels (Happy Hour)",
+  "description": "Mussels prepared in red or white sauce, a perfect small plate to share.",
+  "course": "lunch",
+  "section": "Happy Hour / Small Plates",
+  "ingredients": [
+    "Mussels",
+    "Tomato or white wine sauce"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "fried-breaded-mozzarella",
+  "name": "Fried Breaded Fresh Mozzarella",
+  "description": "Hand-breaded mozzarella served hot with house tomato sauce.",
+  "course": "dinner",
+  "section": "Appetizers",
+  "ingredients": [
+    "Fresh mozzarella",
+    "Breadcrumbs",
+    "Tomato sauce"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

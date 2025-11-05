@@ -1,0 +1,23 @@
+{
+  "slug": "tuna-avocado-fusion",
+  "name": "Tuna Avocado Fusion",
+  "description": "Seared ahi tuna with avocado, roasted peppers, cucumber, onion, arugula, and roasted tomato basil drizzle with lemon.",
+  "course": "dinner",
+  "section": "Fish Specialties",
+  "ingredients": [
+    "Ahi tuna",
+    "Avocado",
+    "Roasted red peppers",
+    "Cucumbers",
+    "Red onion",
+    "Arugula",
+    "Roasted tomato basil drizzle",
+    "Lemon"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/tuna-avocado-fusion.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.723567+00:00"
+}

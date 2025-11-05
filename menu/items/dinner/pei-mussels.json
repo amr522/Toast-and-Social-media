@@ -1,0 +1,22 @@
+{
+  "slug": "pei-mussels",
+  "name": "PEI Mussels",
+  "description": "Prince Edward Island mussels simmered in house tomato or white wine sauce with olives and capers.",
+  "course": "dinner",
+  "section": "Appetizers",
+  "ingredients": [
+    "Mussels",
+    "Black olives",
+    "Capers",
+    "Tomato sauce",
+    "White wine sauce",
+    "Garlic",
+    "Basil"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/pei-mussels.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.710894+00:00"
+}

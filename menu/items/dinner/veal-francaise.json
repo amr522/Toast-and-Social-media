@@ -1,0 +1,20 @@
+{
+  "slug": "veal-francaise",
+  "name": "Veal Francaise",
+  "description": "Egg-battered veal scallopini finished with lemon white wine sauce.",
+  "course": "dinner",
+  "section": "Poultry, Veal & Meats",
+  "ingredients": [
+    "Veal scallopini",
+    "Eggs",
+    "Lemon",
+    "White wine",
+    "Butter"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/veal-francaise.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.724797+00:00"
+}

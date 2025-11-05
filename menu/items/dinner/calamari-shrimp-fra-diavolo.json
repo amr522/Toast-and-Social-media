@@ -1,0 +1,22 @@
+{
+  "slug": "calamari-shrimp-fra-diavolo",
+  "name": "Calamari & Shrimp Fra Diavolo",
+  "description": "Calamari and shrimp in spicy house tomato sauce over linguine.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Calamari",
+    "Shrimp",
+    "Spicy tomato sauce",
+    "Garlic",
+    "Basil",
+    "Linguine"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/calamari-shrimp-fra-diavolo.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.717228+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "wings-hh",
+  "name": "Wings (5)",
+  "description": "Five wings served with your choice of sauce.",
+  "course": "lunch",
+  "section": "Happy Hour / Small Plates",
+  "ingredients": [
+    "Chicken wings"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

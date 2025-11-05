@@ -1,0 +1,17 @@
+{
+  "slug": "gluten-free-pasta-lunch",
+  "name": "Gluten-Free Pasta",
+  "description": "Gluten-free pasta with spinach, mushrooms, garlic, tomatoes, and caper tomato sauce.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Gluten-free pasta",
+    "Spinach",
+    "Mushrooms",
+    "Tomatoes",
+    "Capers"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,121 @@
+slug,course,section,image,status,last_processed_at
+tuna-ceviche,dinner,Appetizers,,missing-image,
+beef-carpaccio,dinner,Appetizers,data/beef-carpaccio.png,processed,2025-11-05T00:04:50.708386+00:00
+avocado-fusion-delight,dinner,Appetizers,,missing-image,
+caprese-salad,dinner,Appetizers,,missing-image,
+golden-yum-yum-shrimp,dinner,Appetizers,data/golden-yum-yum-shrimp.png,processed,2025-11-05T00:04:50.731056+00:00
+fried-breaded-mozzarella,dinner,Appetizers,,missing-image,
+clams-portofino,dinner,Appetizers,,missing-image,
+pei-mussels,dinner,Appetizers,data/pei-mussels.png,processed,2025-11-05T00:04:50.710894+00:00
+fried-calamari,dinner,Appetizers,,missing-image,
+figs-flatbread,dinner,Appetizers,data/figs-flatbread.png,processed,2025-11-05T00:04:50.711707+00:00
+soup-of-the-day,dinner,Soups & Salads,,missing-image,
+house-salad,dinner,Soups & Salads,,missing-image,
+caesar-salad,dinner,Soups & Salads,,missing-image,
+mediterranean-salad,dinner,Soups & Salads,data/mediterranean-salad.png,processed,2025-11-05T00:04:50.734128+00:00
+figs-salad,dinner,Soups & Salads,data/figs-salad.png,processed,2025-11-05T00:04:50.734497+00:00
+capricciosa-salad,dinner,Soups & Salads,,missing-image,
+wedge-salad,dinner,Soups & Salads,data/wedge-salad.png,processed,2025-11-05T00:04:50.735220+00:00
+salad-protein-addons,dinner,Soups & Salads,,missing-image,
+classic-fettuccini-alfredo,dinner,Pasta,,missing-image,
+pink-vodka-pasta,dinner,Pasta,,missing-image,
+quattro-formaggi-ravioli,dinner,Pasta,,missing-image,
+linguine-clams,dinner,Pasta,data/linguine-clams.png,processed,2025-11-05T00:04:50.715269+00:00
+fettuccini-bolognese,dinner,Pasta,,missing-image,
+linguine-puttanesca,dinner,Pasta,data/linguine-puttanesca.png,processed,2025-11-05T00:04:50.715974+00:00
+cheese-ravioli,dinner,Pasta,,missing-image,
+gluten-free-garden-pasta,dinner,Pasta,,missing-image,
+shrimp-scampi-linguine,dinner,Pasta,data/shrimp-scampi-linguine.png,processed,2025-11-05T00:04:50.716723+00:00
+calamari-shrimp-fra-diavolo,dinner,Pasta,data/calamari-shrimp-fra-diavolo.png,processed,2025-11-05T00:04:50.717228+00:00
+sicilian-penne,dinner,Pasta,,missing-image,
+linguine-with-meatballs,dinner,Pasta,data/linguine-with-meatballs.png,processed,2025-11-05T00:04:50.718081+00:00
+cajun-chicken-shrimp-pasta,dinner,Pasta,data/cajun-chicken-shrimp-pasta.png,processed,2025-11-05T00:04:50.718484+00:00
+linguine-pescatore,dinner,Pasta,data/linguine-pescatore.png,processed,2025-11-05T00:04:50.718855+00:00
+shrimp-parmigiana,dinner,Baked Classics,,missing-image,
+chicken-parmigiana,dinner,Baked Classics,,missing-image,
+veal-parmesan,dinner,Baked Classics,,missing-image,
+eggplant-parmigiana,dinner,Baked Classics,data/eggplant-parmigiana.png,processed,2025-11-05T00:04:50.721954+00:00
+house-lasagna,dinner,Baked Classics,,missing-image,
+salmon-piccata,dinner,Fish Specialties,data/salmon-piccata.png,processed,2025-11-05T00:04:50.722743+00:00
+blackened-cod,dinner,Fish Specialties,,missing-image,
+grilled-shrimp-plate,dinner,Fish Specialties,,missing-image,
+tuna-avocado-fusion,dinner,Fish Specialties,data/tuna-avocado-fusion.png,processed,2025-11-05T00:04:50.723567+00:00
+chicken-francaise,dinner,"Poultry, Veal & Meats",,missing-image,
+chicken-piccata,dinner,"Poultry, Veal & Meats",,missing-image,
+chicken-marsala,dinner,"Poultry, Veal & Meats",,missing-image,
+chicken-scampi,dinner,"Poultry, Veal & Meats",,missing-image,
+veal-francaise,dinner,"Poultry, Veal & Meats",data/veal-francaise.png,processed,2025-11-05T00:04:50.724797+00:00
+veal-piccata,dinner,"Poultry, Veal & Meats",data/veal-piccata.png,processed,2025-11-05T00:04:50.725251+00:00
+veal-marsala,dinner,"Poultry, Veal & Meats",,missing-image,
+chianti-meatloaf,dinner,"Poultry, Veal & Meats",data/chianti-meatloaf-2.png,processed,2025-11-05T00:04:50.725933+00:00
+chianti-meatloaf,dinner,"Poultry, Veal & Meats",data/chianti-meatloaf.png,processed,2025-11-05T00:04:50.725933+00:00
+pork-chop-marsala,dinner,"Poultry, Veal & Meats",,missing-image,
+pork-osso-buco,dinner,"Poultry, Veal & Meats",data/pork-osso-buco.png,processed,2025-11-05T00:04:50.726925+00:00
+baby-back-ribs,dinner,"Poultry, Veal & Meats",,missing-image,
+new-york-strip,dinner,"Poultry, Veal & Meats",data/new-york-strip.png,processed,2025-11-05T00:04:50.728077+00:00
+chicken-capricciosa,dinner,"Poultry, Veal & Meats",data/chicken-capricciosa.png,processed,2025-11-05T00:04:50.728611+00:00
+veal-capricciosa,dinner,"Poultry, Veal & Meats",,missing-image,
+meatballs-side,dinner,Sides,,missing-image,
+sauteed-broccoli,dinner,Sides,,missing-image,
+sauteed-spinach,dinner,Sides,,missing-image,
+sausage-tomato-sauce,dinner,Sides,,missing-image,
+tuna-ceviche,lunch,Appetizers,,missing-image,
+avocado-fusion-delight,lunch,Appetizers,,missing-image,
+caprese,lunch,Appetizers,,missing-image,
+chicken-wings,lunch,Appetizers,,missing-image,
+golden-yum-yum-shrimp,lunch,Appetizers,data/golden-yum-yum-shrimp.png,processed,2025-11-05T00:04:50.731056+00:00
+fried-mozzarella,lunch,Appetizers,,missing-image,
+clams-portofino,lunch,Appetizers,,missing-image,
+mussels-red-or-white,lunch,Appetizers,,missing-image,
+fried-calamari,lunch,Appetizers,,missing-image,
+soup-of-the-day,lunch,Soups & Salads,,missing-image,
+house-salad,lunch,Soups & Salads,,missing-image,
+caesar-salad,lunch,Soups & Salads,,missing-image,
+mediterranean-salad,lunch,Soups & Salads,data/mediterranean-salad.png,processed,2025-11-05T00:04:50.734128+00:00
+figs-salad,lunch,Soups & Salads,data/figs-salad.png,processed,2025-11-05T00:04:50.734497+00:00
+capricciosa-salad,lunch,Soups & Salads,,missing-image,
+wedge-salad,lunch,Soups & Salads,data/wedge-salad.png,processed,2025-11-05T00:04:50.735220+00:00
+salad-addons,lunch,Soups & Salads,,missing-image,
+sausage-parmesan,lunch,Classic Sandwiches,,missing-image,
+shrimp-parmesan-sandwich,lunch,Classic Sandwiches,,missing-image,
+veal-parmesan-sandwich,lunch,Classic Sandwiches,,missing-image,
+meatball-parmesan-sandwich,lunch,Classic Sandwiches,,missing-image,
+chicken-parmesan-sandwich,lunch,Classic Sandwiches,,missing-image,
+philly-cheesesteak,lunch,Classic Sandwiches,,missing-image,
+chicken-caprese-sandwich,lunch,Classic Sandwiches,,missing-image,
+chicken-avocado-fusion-sandwich,lunch,Classic Sandwiches,,missing-image,
+the-classic,lunch,Burgers,data/the-classic.png,processed,2025-11-05T00:04:50.737915+00:00
+smoky-bbq-bacon-burger,lunch,Burgers,,missing-image,
+black-and-blue-cajun-burger,lunch,Burgers,,missing-image,
+burger-avocado-fusion,lunch,Burgers,,missing-image,
+mediterranean-bliss-flatbread,lunch,Flatbreads,,missing-image,
+pietros-fig-bacon-flatbread,lunch,Flatbreads,,missing-image,
+pesto-chicken-delight-flatbread,lunch,Flatbreads,,missing-image,
+tuscan-roasted-chicken-flatbread,lunch,Flatbreads,,missing-image,
+coastal-chicken-flatbread,lunch,Flatbreads,,missing-image,
+shrimp-sensation-flatbread,lunch,Flatbreads,,missing-image,
+alfredo-linguine-or-penne,lunch,Lunch Pasta,,missing-image,
+pink-vodka-linguine-or-penne,lunch,Lunch Pasta,,missing-image,
+fettuccini-bolognese-lunch,lunch,Lunch Pasta,,missing-image,
+cheese-ravioli-lunch,lunch,Lunch Pasta,,missing-image,
+gluten-free-pasta-lunch,lunch,Lunch Pasta,,missing-image,
+calamari-fra-diavolo-lunch,lunch,Lunch Pasta,,missing-image,
+sicilian-penne-lunch,lunch,Lunch Pasta,,missing-image,
+linguine-with-meatballs-lunch,lunch,Lunch Pasta,,missing-image,
+lasagna-lunch,lunch,Lunch Pasta,,missing-image,
+cajun-chicken-lunch,lunch,Lunch Pasta,,missing-image,
+shrimp-parmesan-lunch,lunch,Baked Lunch Classics,,missing-image,
+chicken-parmesan-lunch,lunch,Baked Lunch Classics,,missing-image,
+eggplant-parmigiana-lunch,lunch,Baked Lunch Classics,,missing-image,
+chicken-francaise-lunch,lunch,Poultry & Meats (Lunch),,missing-image,
+chicken-piccata-lunch,lunch,Poultry & Meats (Lunch),,missing-image,
+chicken-marsala-lunch,lunch,Poultry & Meats (Lunch),,missing-image,
+baby-shrimp-scampi-and-garlic-bread,lunch,Happy Hour / Small Plates,,missing-image,
+flatbread-variety,lunch,Happy Hour / Small Plates,,missing-image,
+bruschetta-variety,lunch,Happy Hour / Small Plates,,missing-image,
+mozzarella-and-tomato-tower,lunch,Happy Hour / Small Plates,,missing-image,
+fried-ravioli,lunch,Happy Hour / Small Plates,,missing-image,
+chicken-tenders-hh,lunch,Happy Hour / Small Plates,,missing-image,
+calamari-hh,lunch,Happy Hour / Small Plates,,missing-image,
+wings-hh,lunch,Happy Hour / Small Plates,,missing-image,
+mussels-hh,lunch,Happy Hour / Small Plates,,missing-image,

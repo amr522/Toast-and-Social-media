@@ -1,0 +1,17 @@
+{
+  "slug": "lasagna-lunch",
+  "name": "Lasagna",
+  "description": "Classic layered pasta with pork and veal meat sauce, ricotta, and parmesan.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Pasta sheets",
+    "Pork",
+    "Veal",
+    "Ricotta",
+    "Parmesan"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

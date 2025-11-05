@@ -1,0 +1,17 @@
+{
+  "slug": "shrimp-parmigiana",
+  "name": "Shrimp Parmigiana",
+  "description": "Breaded shrimp baked in house tomato sauce with melted mozzarella.",
+  "course": "dinner",
+  "section": "Baked Classics",
+  "section_notes": "Gluten-free penne substitution available upon request.",
+  "ingredients": [
+    "Shrimp",
+    "Breadcrumbs",
+    "Tomato sauce",
+    "Mozzarella"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "veal-parmesan",
+  "name": "Veal Parmesan",
+  "description": "Tender veal scallopini baked with tomato sauce and mozzarella.",
+  "course": "dinner",
+  "section": "Baked Classics",
+  "section_notes": "Gluten-free penne substitution available upon request.",
+  "ingredients": [
+    "Veal scallopini",
+    "Tomato sauce",
+    "Mozzarella"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "mozzarella-and-tomato-tower",
+  "name": "Mozzarella and Tomato Tower",
+  "description": "Layered fresh mozzarella and tomato with basil and balsamic.",
+  "course": "lunch",
+  "section": "Happy Hour / Small Plates",
+  "ingredients": [
+    "Fresh mozzarella",
+    "Tomato",
+    "Basil"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

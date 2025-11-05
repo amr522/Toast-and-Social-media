@@ -1,0 +1,14 @@
+{
+  "slug": "chicken-tenders-hh",
+  "name": "Chicken Tenders with Honey Mustard",
+  "description": "Crispy chicken tenders served with honey mustard for dipping.",
+  "course": "lunch",
+  "section": "Happy Hour / Small Plates",
+  "ingredients": [
+    "Chicken tenders",
+    "Honey mustard"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

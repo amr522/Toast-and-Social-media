@@ -1,0 +1,15 @@
+{
+  "slug": "shrimp-parmesan-lunch",
+  "name": "Shrimp Parmesan",
+  "description": "Lightly breaded shrimp baked with tomato sauce and mozzarella.",
+  "course": "lunch",
+  "section": "Baked Lunch Classics",
+  "ingredients": [
+    "Shrimp",
+    "Tomato sauce",
+    "Mozzarella"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

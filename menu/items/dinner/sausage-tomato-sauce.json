@@ -1,0 +1,14 @@
+{
+  "slug": "sausage-tomato-sauce",
+  "name": "Sausage with Tomato Sauce",
+  "description": "Italian sausage in house tomato sauce.",
+  "course": "dinner",
+  "section": "Sides",
+  "ingredients": [
+    "Italian sausage",
+    "Tomato sauce"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

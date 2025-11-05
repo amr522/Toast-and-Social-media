@@ -1,0 +1,15 @@
+{
+  "slug": "quattro-formaggi-ravioli",
+  "name": "Quattro Formaggi Ravioli",
+  "description": "Four-cheese ravioli topped with house Bolognese sauce.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Cheese ravioli",
+    "Bolognese sauce"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

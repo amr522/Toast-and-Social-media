@@ -1,0 +1,21 @@
+{
+  "slug": "linguine-clams",
+  "name": "Linguine Clams",
+  "description": "Linguine in garlic white wine sauce brimming with tender clams.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Linguine",
+    "Clams",
+    "Garlic",
+    "White wine",
+    "Parsley"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/linguine-clams.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.715269+00:00"
+}

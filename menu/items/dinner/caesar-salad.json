@@ -1,0 +1,16 @@
+{
+  "slug": "caesar-salad",
+  "name": "Caesar Salad",
+  "description": "Chopped romaine tossed with house Caesar dressing and rustic croutons.",
+  "course": "dinner",
+  "section": "Soups & Salads",
+  "ingredients": [
+    "Romaine lettuce",
+    "Caesar dressing",
+    "Croutons",
+    "Parmigiano-Reggiano"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

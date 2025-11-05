@@ -1,0 +1,20 @@
+{
+  "slug": "coastal-chicken-flatbread",
+  "name": "Coastal Chicken Flatbread",
+  "description": "Grilled chicken with blue cheese spread, roasted red peppers, tomatoes, mozzarella, and hot sauce with arugula.",
+  "course": "lunch",
+  "section": "Flatbreads",
+  "ingredients": [
+    "Flatbread dough",
+    "Grilled chicken",
+    "Blue cheese spread",
+    "Roasted red peppers",
+    "Tomatoes",
+    "Mozzarella",
+    "Hot sauce",
+    "Arugula"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

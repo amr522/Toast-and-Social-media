@@ -1,0 +1,18 @@
+{
+  "slug": "pietros-fig-bacon-flatbread",
+  "name": "Pietro's Fig & Bacon Flatbread",
+  "description": "Bacon, gorgonzola, mozzarella, figs, arugula, and balsamic reduction.",
+  "course": "lunch",
+  "section": "Flatbreads",
+  "ingredients": [
+    "Flatbread dough",
+    "Bacon",
+    "Gorgonzola",
+    "Mozzarella",
+    "Figs",
+    "Arugula"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

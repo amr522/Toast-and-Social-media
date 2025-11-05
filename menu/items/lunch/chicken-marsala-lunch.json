@@ -1,0 +1,15 @@
+{
+  "slug": "chicken-marsala-lunch",
+  "name": "Chicken Marsala",
+  "description": "Chicken simmered in mushroom Marsala sauce.",
+  "course": "lunch",
+  "section": "Poultry & Meats (Lunch)",
+  "ingredients": [
+    "Chicken breast",
+    "Mushrooms",
+    "Marsala wine"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

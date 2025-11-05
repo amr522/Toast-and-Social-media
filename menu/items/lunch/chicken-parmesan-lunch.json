@@ -1,0 +1,15 @@
+{
+  "slug": "chicken-parmesan-lunch",
+  "name": "Chicken Parmesan",
+  "description": "Breaded chicken breast baked with tomato sauce and mozzarella.",
+  "course": "lunch",
+  "section": "Baked Lunch Classics",
+  "ingredients": [
+    "Chicken breast",
+    "Tomato sauce",
+    "Mozzarella"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

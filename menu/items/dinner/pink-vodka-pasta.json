@@ -1,0 +1,18 @@
+{
+  "slug": "pink-vodka-pasta",
+  "name": "Pink Vodka Pasta",
+  "description": "Pasta enveloped in a velvety tomato vodka cream sauce.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Pasta",
+    "Tomato sauce",
+    "Cream",
+    "Vodka",
+    "Parmesan"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "grilled-shrimp-plate",
+  "name": "Grilled Shrimp",
+  "description": "Grilled shrimp accompanied by vegetables, mashed potatoes, and roasted tomato basil sauce.",
+  "course": "dinner",
+  "section": "Fish Specialties",
+  "ingredients": [
+    "Shrimp",
+    "Seasonal vegetables",
+    "Mashed potatoes",
+    "Roasted tomato basil sauce"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

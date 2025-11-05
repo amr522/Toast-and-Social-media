@@ -1,0 +1,16 @@
+{
+  "slug": "capricciosa-salad",
+  "name": "Capricciosa Salad",
+  "description": "Baby arugula with fresh mozzarella, tomatoes, and balsamic vinaigrette.",
+  "course": "lunch",
+  "section": "Soups & Salads",
+  "ingredients": [
+    "Baby arugula",
+    "Fresh mozzarella",
+    "Tomatoes",
+    "Balsamic vinaigrette"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

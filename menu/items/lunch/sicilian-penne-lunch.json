@@ -1,0 +1,19 @@
+{
+  "slug": "sicilian-penne-lunch",
+  "name": "Sicilian Penne",
+  "description": "Penne with sausage, broccoli, white beans, tomatoes, garlic, and ricotta.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Penne",
+    "Sausage",
+    "Broccoli",
+    "White kidney beans",
+    "Tomatoes",
+    "Garlic",
+    "Ricotta"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

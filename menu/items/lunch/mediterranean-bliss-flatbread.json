@@ -1,0 +1,20 @@
+{
+  "slug": "mediterranean-bliss-flatbread",
+  "name": "Mediterranean Bliss Flatbread",
+  "description": "Kalamata olives, spinach, sun-dried tomato, caramelized onion, feta, mozzarella, and balsamic reduction with arugula.",
+  "course": "lunch",
+  "section": "Flatbreads",
+  "ingredients": [
+    "Flatbread dough",
+    "Kalamata olives",
+    "Spinach",
+    "Sun-dried tomatoes",
+    "Caramelized onions",
+    "Feta",
+    "Mozzarella",
+    "Arugula"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

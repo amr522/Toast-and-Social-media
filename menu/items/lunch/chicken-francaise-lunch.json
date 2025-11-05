@@ -1,0 +1,16 @@
+{
+  "slug": "chicken-francaise-lunch",
+  "name": "Chicken Francaise",
+  "description": "Egg-battered chicken cutlets in lemon white wine sauce.",
+  "course": "lunch",
+  "section": "Poultry & Meats (Lunch)",
+  "ingredients": [
+    "Chicken breast",
+    "Eggs",
+    "Lemon",
+    "White wine"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

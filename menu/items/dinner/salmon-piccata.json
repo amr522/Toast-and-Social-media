@@ -1,0 +1,20 @@
+{
+  "slug": "salmon-piccata",
+  "name": "Salmon Piccata",
+  "description": "Grilled salmon with capers in white wine butter sauce served with vegetables and mashed potatoes.",
+  "course": "dinner",
+  "section": "Fish Specialties",
+  "ingredients": [
+    "Salmon",
+    "Capers",
+    "White wine butter sauce",
+    "Seasonal vegetables",
+    "Mashed potatoes"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/salmon-piccata.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.722743+00:00"
+}

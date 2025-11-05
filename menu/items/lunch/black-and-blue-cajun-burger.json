@@ -1,0 +1,16 @@
+{
+  "slug": "black-and-blue-cajun-burger",
+  "name": "Black & Blue Cajun Burger",
+  "description": "Blackened beef patty with blue cheese dressing and caramelized onions.",
+  "course": "lunch",
+  "section": "Burgers",
+  "section_notes": "Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.",
+  "ingredients": [
+    "Beef patty",
+    "Blue cheese",
+    "Caramelized onions"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

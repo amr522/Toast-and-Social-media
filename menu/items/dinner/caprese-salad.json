@@ -1,0 +1,17 @@
+{
+  "slug": "caprese-salad",
+  "name": "Caprese",
+  "description": "Sliced tomatoes and roasted red peppers layered with fresh mozzarella, finished with balsamic glaze and basil oil.",
+  "course": "dinner",
+  "section": "Appetizers",
+  "ingredients": [
+    "Tomatoes",
+    "Roasted red peppers",
+    "Fresh mozzarella",
+    "Balsamic glaze",
+    "Basil oil"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

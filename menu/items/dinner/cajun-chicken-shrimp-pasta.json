@@ -1,0 +1,23 @@
+{
+  "slug": "cajun-chicken-shrimp-pasta",
+  "name": "Cajun Chicken and Shrimp",
+  "description": "Chicken and shrimp with spinach, mushrooms, and Cajun cream sauce over angel hair pasta.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Chicken breast",
+    "Shrimp",
+    "Spinach",
+    "Mushrooms",
+    "Cajun cream sauce",
+    "Oven-dried tomatoes",
+    "Angel hair pasta"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/cajun-chicken-shrimp-pasta.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.718484+00:00"
+}

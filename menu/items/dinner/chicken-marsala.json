@@ -1,0 +1,17 @@
+{
+  "slug": "chicken-marsala",
+  "name": "Chicken Marsala",
+  "description": "Chicken simmered in mushroom Marsala wine sauce.",
+  "course": "dinner",
+  "section": "Poultry, Veal & Meats",
+  "ingredients": [
+    "Chicken breast",
+    "Mushrooms",
+    "Marsala wine",
+    "Butter",
+    "Herbs"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

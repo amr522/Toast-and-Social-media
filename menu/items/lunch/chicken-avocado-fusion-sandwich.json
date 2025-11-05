@@ -1,0 +1,18 @@
+{
+  "slug": "chicken-avocado-fusion-sandwich",
+  "name": "Chicken Avocado Fusion",
+  "description": "Grilled chicken with avocado, roasted peppers and onions, and roasted tomato basil drizzle.",
+  "course": "lunch",
+  "section": "Classic Sandwiches",
+  "section_notes": "Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.",
+  "ingredients": [
+    "Grilled chicken",
+    "Avocado",
+    "Roasted red peppers",
+    "Roasted red onions",
+    "Roasted tomato basil drizzle"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "chianti-meatloaf",
+  "name": "Meatloaf",
+  "description": "House meatloaf glazed with Chianti demi-glace.",
+  "course": "dinner",
+  "section": "Poultry, Veal & Meats",
+  "ingredients": [
+    "Ground beef",
+    "Ground pork",
+    "Aromatics",
+    "Chianti demi-glace"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/chianti-meatloaf-2.png",
+    "data/chianti-meatloaf.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.725933+00:00"
+}

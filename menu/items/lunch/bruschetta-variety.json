@@ -1,0 +1,14 @@
+{
+  "slug": "bruschetta-variety",
+  "name": "Bruschetta Trio",
+  "description": "Trio of bruschetta toppings such as gorgonzola-fig, roasted red pepper, and classic tomato.",
+  "course": "lunch",
+  "section": "Happy Hour / Small Plates",
+  "ingredients": [
+    "Bread",
+    "Toppings"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

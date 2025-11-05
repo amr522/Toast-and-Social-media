@@ -1,0 +1,19 @@
+{
+  "slug": "fettuccini-bolognese",
+  "name": "Fettuccini Bolognese",
+  "description": "Fettuccine with slow-cooked beef, veal, and pork ragù.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Fettuccine",
+    "Beef",
+    "Veal",
+    "Pork",
+    "Tomatoes",
+    "Aromatics"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

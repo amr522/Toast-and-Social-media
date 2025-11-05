@@ -1,0 +1,15 @@
+{
+  "slug": "sauteed-spinach",
+  "name": "Sautéed Spinach",
+  "description": "Spinach wilted with garlic and olive oil.",
+  "course": "dinner",
+  "section": "Sides",
+  "ingredients": [
+    "Spinach",
+    "Garlic",
+    "Extra-virgin olive oil"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

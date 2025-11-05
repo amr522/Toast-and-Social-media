@@ -1,0 +1,24 @@
+{
+  "slug": "linguine-pescatore",
+  "name": "Linguine Pescatore",
+  "description": "Linguine with clams, mussels, shrimp, and calamari in light tomato sauce.",
+  "course": "dinner",
+  "section": "Pasta",
+  "section_notes": "Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.",
+  "ingredients": [
+    "Linguine",
+    "Clams",
+    "Mussels",
+    "Shrimp",
+    "Calamari",
+    "Tomatoes",
+    "Garlic",
+    "Basil"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/linguine-pescatore.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.718855+00:00"
+}

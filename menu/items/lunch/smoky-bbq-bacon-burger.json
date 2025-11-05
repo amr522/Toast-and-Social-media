@@ -1,0 +1,18 @@
+{
+  "slug": "smoky-bbq-bacon-burger",
+  "name": "Smoky BBQ Bacon Burger",
+  "description": "Beef patty topped with crispy bacon, American cheese, fried onion, and BBQ sauce.",
+  "course": "lunch",
+  "section": "Burgers",
+  "section_notes": "Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.",
+  "ingredients": [
+    "Beef patty",
+    "Bacon",
+    "American cheese",
+    "Fried onion",
+    "BBQ sauce"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

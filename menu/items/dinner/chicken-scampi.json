@@ -1,0 +1,18 @@
+{
+  "slug": "chicken-scampi",
+  "name": "Chicken Scampi",
+  "description": "Chicken tossed with garlic, capers, oven-dried tomatoes, and white wine.",
+  "course": "dinner",
+  "section": "Poultry, Veal & Meats",
+  "ingredients": [
+    "Chicken breast",
+    "Garlic",
+    "Capers",
+    "Oven-dried tomatoes",
+    "White wine",
+    "Butter"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

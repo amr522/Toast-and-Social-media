@@ -1,0 +1,15 @@
+{
+  "slug": "pink-vodka-linguine-or-penne",
+  "name": "Pink Vodka (Linguine or Penne)",
+  "description": "Pasta in a tomato vodka cream sauce available with linguine or penne.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Pasta",
+    "Tomato vodka sauce",
+    "Parmesan"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "burger-avocado-fusion",
+  "name": "Burger Avocado Fusion",
+  "description": "Beef patty topped with avocado, roasted red peppers, and roasted tomato basil drizzle.",
+  "course": "lunch",
+  "section": "Burgers",
+  "section_notes": "Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.",
+  "ingredients": [
+    "Beef patty",
+    "Avocado",
+    "Roasted red peppers",
+    "Roasted tomato basil drizzle"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

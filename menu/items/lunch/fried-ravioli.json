@@ -1,0 +1,15 @@
+{
+  "slug": "fried-ravioli",
+  "name": "Fried Ravioli",
+  "description": "Crispy fried ravioli served with dipping sauce.",
+  "course": "lunch",
+  "section": "Happy Hour / Small Plates",
+  "ingredients": [
+    "Ravioli",
+    "Breadcrumbs",
+    "Dipping sauce"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

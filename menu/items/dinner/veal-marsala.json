@@ -1,0 +1,17 @@
+{
+  "slug": "veal-marsala",
+  "name": "Veal Marsala",
+  "description": "Veal scallopini in rich mushroom Marsala sauce.",
+  "course": "dinner",
+  "section": "Poultry, Veal & Meats",
+  "ingredients": [
+    "Veal scallopini",
+    "Mushrooms",
+    "Marsala wine",
+    "Butter",
+    "Herbs"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

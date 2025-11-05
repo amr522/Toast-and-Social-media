@@ -1,0 +1,15 @@
+{
+  "slug": "cheese-ravioli-lunch",
+  "name": "Cheese Ravioli",
+  "description": "Cheese ravioli served with tomato sauce and melted mozzarella.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Cheese ravioli",
+    "Tomato sauce",
+    "Mozzarella"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "chicken-piccata",
+  "name": "Chicken Piccata",
+  "description": "Chicken sautéed with capers in lemon butter white wine sauce.",
+  "course": "dinner",
+  "section": "Poultry, Veal & Meats",
+  "ingredients": [
+    "Chicken breast",
+    "Capers",
+    "Lemon",
+    "Butter",
+    "White wine"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

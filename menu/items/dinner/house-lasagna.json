@@ -1,0 +1,20 @@
+{
+  "slug": "house-lasagna",
+  "name": "Lasagna",
+  "description": "Layers of pasta with pork, beef, and veal meat sauce, ricotta, and parmesan.",
+  "course": "dinner",
+  "section": "Baked Classics",
+  "section_notes": "Gluten-free penne substitution available upon request.",
+  "ingredients": [
+    "Pasta sheets",
+    "Pork",
+    "Beef",
+    "Veal",
+    "Tomato sauce",
+    "Ricotta",
+    "Parmesan"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

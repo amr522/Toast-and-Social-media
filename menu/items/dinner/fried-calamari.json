@@ -1,0 +1,15 @@
+{
+  "slug": "fried-calamari",
+  "name": "Fried Calamari",
+  "description": "Lightly breaded calamari rings fried crisp and served with house tomato sauce.",
+  "course": "dinner",
+  "section": "Appetizers",
+  "ingredients": [
+    "Calamari",
+    "Seasoned batter",
+    "Tomato sauce"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [],
+  "status": "missing-image"
+}

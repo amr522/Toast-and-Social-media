@@ -1,0 +1,21 @@
+{
+  "slug": "figs-salad",
+  "name": "Figs Salad",
+  "description": "Mixed greens with figs, mandarin oranges, pistachios, gorgonzola, and zinfandel vinaigrette.",
+  "course": "dinner",
+  "section": "Soups & Salads",
+  "ingredients": [
+    "Mixed greens",
+    "Figs",
+    "Mandarin oranges",
+    "Pistachios",
+    "Zinfandel vinaigrette",
+    "Gorgonzola"
+  ],
+  "source_file": "menu/dinner.yaml",
+  "images": [
+    "data/figs-salad.png"
+  ],
+  "status": "processed",
+  "last_processed_at": "2025-11-05T00:04:50.734497+00:00"
+}

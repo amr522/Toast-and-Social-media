@@ -1,0 +1,17 @@
+{
+  "slug": "salad-addons",
+  "name": "Salad Add-Ons",
+  "description": "Protein options to enhance your salad.",
+  "course": "lunch",
+  "section": "Soups & Salads",
+  "options": [
+    "Grilled chicken",
+    "Shrimp",
+    "Salmon",
+    "Cajun cod",
+    "Ahi tuna"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

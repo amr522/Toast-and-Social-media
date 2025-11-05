@@ -1,0 +1,15 @@
+{
+  "slug": "linguine-with-meatballs-lunch",
+  "name": "Linguine with Meatballs",
+  "description": "Linguine topped with pork and veal meatballs in tomato sauce.",
+  "course": "lunch",
+  "section": "Lunch Pasta",
+  "ingredients": [
+    "Linguine",
+    "Meatballs",
+    "Tomato sauce"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

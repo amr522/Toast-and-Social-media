@@ -1,0 +1,17 @@
+{
+  "slug": "house-salad",
+  "name": "House Salad",
+  "description": "Mixed greens with grape tomatoes, red onion, cucumber, and zinfandel vinaigrette.",
+  "course": "lunch",
+  "section": "Soups & Salads",
+  "ingredients": [
+    "Mixed greens",
+    "Grape tomatoes",
+    "Red onion",
+    "Cucumber",
+    "Zinfandel vinaigrette"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}

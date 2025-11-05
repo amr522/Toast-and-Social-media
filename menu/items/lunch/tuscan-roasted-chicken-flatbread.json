@@ -1,0 +1,18 @@
+{
+  "slug": "tuscan-roasted-chicken-flatbread",
+  "name": "Tuscan Roasted Chicken Flatbread",
+  "description": "Grilled chicken with sun-dried tomatoes, marinara, and mozzarella topped with basil.",
+  "course": "lunch",
+  "section": "Flatbreads",
+  "ingredients": [
+    "Flatbread dough",
+    "Grilled chicken",
+    "Sun-dried tomatoes",
+    "Marinara",
+    "Mozzarella",
+    "Basil"
+  ],
+  "source_file": "menu/lunch.yaml",
+  "images": [],
+  "status": "missing-image"
+}
