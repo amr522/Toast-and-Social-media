@@ -31,12 +31,36 @@ This repository documents a lean content-preparation workflow where **MiniMax** 
 5. **Package & QA**: build platform-specific bundles, append metadata (dish, allergens, platform, timestamps), create `build/processed/<dish>.done` markers, and verify no files remain in `data/` without matching outputs.
 6. **Sync to Drive**: upload each platform bundle to its corresponding Drive folder or Sheet tab so the marketing team can stage manual posts.
 
+## Current Status (Updated November 4, 2025)
+
+### ✅ Completed
+- **Menu structuring**: Converted all menu text from `data/` to structured YAML files (`menu/dinner.yaml`, `menu/lunch.yaml`) with 119 total items
+- **Asset organization**: Renamed 36 existing images to slug-based format for automated matching
+- **JSON export system**: Built `src/menu/export_items.py` to generate per-item JSON files under `menu/items/` with metadata, image references, and processing status
+- **Validation tooling**: Created `src/tools/validate_assets.py` to check menu-image parity and report missing assets
+- **Pipeline scaffolding**: Implemented `src/pipeline/run_once.py` with processed markers (`build/processed/*.done`) and manifest generation (`build/manifest.csv`)
+- **Documentation**: Updated all docs to reflect MiniMax-only workflow and current architecture
+- **Missing asset tracking**: Generated `MISSING_IMAGES.md` listing 83 items needing photography
+- **Environment template**: Created `.env.example` with all API keys and configuration options
+
+### 🔄 In Progress
+- **Image capture**: 83 menu items still require photography (see `MISSING_IMAGES.md`)
+- **MiniMax integration**: API client and enhancement pipeline not yet implemented
+
+### 📋 Next Steps
+1. **Capture missing images** (priority: dinner entrees, popular lunch items)
+2. **Implement MiniMax client** (`src/minimax/client.py`) with auth and rate limiting
+3. **Build enhancement pipeline** for image upscaling and video generation
+4. **Google Drive sync** service for asset distribution
+5. **QA workflow** and manual approval checklist
+
 ## Implementation Plan (Current Sprint)
-1. **Data hygiene**
-   - Enforce filename parity between `data/` and `menu/`.
-   - Move processed originals into `archive/raw_processed/` and emit `build/processed/<dish>.done` markers.
-   - Add schema validation for menu text (name, blurb, ingredient list).
-2. **MiniMax integration layer**
+1. **Data hygiene** ✅ COMPLETED
+   - ✅ Enforce filename parity between `data/` and `menu/`.
+   - ✅ Emit `build/processed/<dish>.done` markers.
+   - ✅ Schema validation for menu text (YAML structure with name, description, ingredients).
+   - 🔄 Move processed originals into `archive/raw_processed/` (pending MiniMax processing).
+2. **MiniMax integration layer** 🔜 NEXT
    - Wrap MiniMax auth, retries, and rate limiting in `src/minimax/client.py`.
    - Implement helpers: `enhance_image`, `render_video`, `generate_voiceover`, `compose_music`, `write_copy`.
 3. **Asset pipeline service**
@@ -53,26 +77,39 @@ This repository documents a lean content-preparation workflow where **MiniMax** 
 - **Social platform posting**: Automatic publishing (e.g., Make.com webhooks) remains paused until the marketing team signs off on asset quality.
 - **External model mix**: Kling, Seedream, Qwen, etc., are out-of-scope unless MiniMax coverage gaps emerge.
 
-## Repo Structure Highlights
+## Repo Structure
 ```
-data/                   # raw images awaiting processing
+data/                   # raw images (36 currently, 83 missing - see MISSING_IMAGES.md)
 archive/raw_processed/  # processed originals moved here automatically
-menu/                   # text descriptions matching image filenames
+menu/
+  dinner.yaml           # 79 dinner menu items with descriptions & ingredients
+  lunch.yaml            # 40 lunch menu items
+  items/                # 119 generated JSON files (one per menu item)
 build/
-  processed/            # marker files documenting completed dishes
-  enhanced_images/      # MiniMax-enhanced stills (master variants)
-  videos/               # MiniMax-produced MP4s (master variants)
-  content/              # JSON + markdown SEO packs (master metadata)
-  platform_assets/
+  processed/            # 119 marker files (.done) documenting item status
+  manifest.csv          # tracking spreadsheet: slug → image → processed status
+  enhanced_images/      # MiniMax-enhanced stills (master variants) [future]
+  videos/               # MiniMax-produced MP4s (master variants) [future]
+  content/              # JSON + markdown SEO packs (master metadata) [future]
+  platform_assets/      # platform-specific derivatives [future]
     instagram_feed/
     instagram_story/
     tiktok/
     pinterest/
     google_business/
-    ...                 # each platform gets tailored images/videos/copy
 src/
-  minimax/              # API client and prompt helpers (to be implemented)
-  pipeline/             # Task orchestrators and Drive sync logic
+  menu/
+    utils.py            # shared utilities for loading menus, finding images, writing JSON
+    export_items.py     # CLI to generate per-item JSON files
+  tools/
+    validate_assets.py  # CLI for checking menu-image parity
+  pipeline/
+    run_once.py         # prototype pipeline with processed markers & manifest
+  minimax/              # API client and prompt helpers [to be implemented]
+docs/
+  pipeline_plan.md      # detailed implementation roadmap
+MISSING_IMAGES.md       # list of 83 items needing photography
+.env.example            # template for all API keys and configuration
 ```
 
 ## Environment & Secrets
@@ -80,10 +117,47 @@ src/
 - `GDRIVE_SERVICE_ACCOUNT`: service-account JSON for Drive uploads (store via Secret Manager or `.env`).
 - Optional tunables: `PIPELINE_BATCH_SIZE`, `MINIMAX_STYLE_PRESET`, `VOICE_PROFILE` for flexible runs without code edits.
 
-## Next Steps for Engineers
-1. Scaffold the MiniMax client and add smoke tests targeting sandbox endpoints.
-2. Design the artifact manifest schema (`build/content/<dish>.json`) with per-platform metadata.
-3. Implement a CLI entry point `python -m src.pipeline.run_once --dish <name>` for ad-hoc processing.
-4. Document the manual QA checklist in `docs/qa.md` (future task).
+## Quick Start
 
-Questions? Open an issue before adjusting prompts to keep brand tone consistent.
+### Prerequisites
+1. Copy `.env.example` to `.env` and fill in credentials:
+   ```bash
+   cp .env.example .env
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Common Commands
+```bash
+# Check menu-image parity and see missing items
+python3 -m src.tools.validate_assets
+
+# Export all menu items to JSON files
+python3 -m src.menu.export_items
+
+# Run pipeline to update processed markers and manifest
+python3 -m src.pipeline.run_once
+
+# Process specific items only
+python3 -m src.pipeline.run_once --slugs grilled-chicken,caesar-salad
+
+# Dry run (no file changes)
+python3 -m src.pipeline.run_once --dry-run
+```
+
+## Next Steps for Engineers
+1. **Image capture**: Source photography for 83 missing items (see `MISSING_IMAGES.md`)
+2. **MiniMax client**: Scaffold `src/minimax/client.py` and add smoke tests targeting sandbox endpoints
+3. **Enhancement pipeline**: Implement image upscaling, video generation, and copy creation
+4. **Drive sync**: Build upload service using credentials from `.env`
+5. **QA checklist**: Document manual approval workflow in `docs/qa.md`
+
+## Contributing
+- Track progress with processed markers in `build/processed/`
+- Update `MISSING_IMAGES.md` after adding new images
+- Run validation before committing: `python3 -m src.tools.validate_assets`
+- Keep prompts and brand tone consistent (open an issue before major changes)
+
+Questions? Open an issue or check the implementation plan in `docs/pipeline_plan.md`.
