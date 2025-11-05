@@ -24,8 +24,8 @@ sections:
           - Roasted tomato basil drizzle
           - Garlic toast
       - slug: caprese
-        name: Caprese
-        description: Sliced tomatoes and fresh mozzarella finished with balsamic glaze and basil oil.
+        name: Caprese Salad
+        description: Tomato, fresh mozzarella, balsamic glaze, basil oil.
         ingredients:
           - Tomatoes
           - Fresh mozzarella
@@ -40,8 +40,8 @@ sections:
           - Blue cheese dressing
           - Choice of sauce (mild, hot, BBQ)
       - slug: golden-yum-yum-shrimp
-        name: Golden Yum Yum Shrimp
-        description: Fried shrimp tossed in a house spicy yum yum sauce.
+        name: Yum Yum Golden Shrimp
+        description: Fried jumbo wild shrimp tossed in a spicy yum yum sauce.
         ingredients:
           - Shrimp
           - House yum yum sauce
@@ -63,8 +63,8 @@ sections:
           - Garlic
           - Basil
       - slug: mussels-red-or-white
-        name: Mussels (Red or White)
-        description: Prince Edward Island mussels prepared in your choice of red (tomato) or white wine sauce.
+        name: Prince Edward Mussels
+        description: Garlic white wine broth with fresh basil.
         ingredients:
           - Mussels
           - Tomato sauce or white wine sauce
@@ -233,7 +233,7 @@ sections:
           - Red onion
           - House sauce
       - slug: smoky-bbq-bacon-burger
-        name: Smoky BBQ Bacon Burger
+        name: BBQ Bacon Burger
         description: Beef patty topped with crispy bacon, American cheese, fried onion, and BBQ sauce.
         ingredients:
           - Beef patty
@@ -242,8 +242,8 @@ sections:
           - Fried onion
           - BBQ sauce
       - slug: black-and-blue-cajun-burger
-        name: Black & Blue Cajun Burger
-        description: Blackened beef patty with blue cheese dressing and caramelized onions.
+        name: Mushroom Swiss Burger
+        description: Beef patty with sautéed mushrooms and onions, Swiss cheese.
         ingredients:
           - Beef patty
           - Blue cheese
@@ -259,7 +259,7 @@ sections:
   - name: Flatbreads
     items:
       - slug: mediterranean-bliss-flatbread
-        name: Mediterranean Bliss Flatbread
+        name: Mediterranean Flatbread
         description: Kalamata olives, spinach, sun-dried tomato, caramelized onion, feta, mozzarella, and balsamic reduction with arugula.
         ingredients:
           - Flatbread dough

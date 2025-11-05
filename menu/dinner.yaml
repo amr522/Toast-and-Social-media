@@ -42,8 +42,8 @@ sections:
           - Balsamic glaze
           - Basil oil
       - slug: golden-yum-yum-shrimp
-        name: Golden Yum Yum Shrimp
-        description: Crispy fried shrimp tossed in house-made spicy yum yum sauce.
+        name: Golden YumYum Shrimp
+        description: Fried jumbo wild shrimp tossed in a spicy yum yum sauce.
         ingredients:
           - Shrimp
           - House yum yum sauce
@@ -67,7 +67,7 @@ sections:
           - Basil
       - slug: pei-mussels
         name: PEI Mussels
-        description: Prince Edward Island mussels simmered in house tomato or white wine sauce with olives and capers.
+        description: Prince Edward Island mussels in garlic white wine sauce with fresh basil.
         ingredients:
           - Mussels
           - Black olives
@@ -104,7 +104,7 @@ sections:
           - Seasonal ingredients
       - slug: house-salad
         name: House Salad
-        description: Mixed greens with grape tomatoes, red onion, cucumber, and zinfandel vinaigrette.
+        description: Spring mix with tomato, cucumber, Kalamata olives, and zinfandel vinaigrette.
         ingredients:
           - Mixed greens
           - Grape tomatoes
@@ -113,7 +113,7 @@ sections:
           - Zinfandel vinaigrette
       - slug: caesar-salad
         name: Caesar Salad
-        description: Chopped romaine tossed with house Caesar dressing and rustic croutons.
+        description: Romaine hearts, house Caesar dressing, shaved Parmesan, rustic croutons.
         ingredients:
           - Romaine lettuce
           - Caesar dressing
@@ -174,8 +174,8 @@ sections:
     notes: Gluten-free penne available on request. Protein add-ons include chicken or shrimp for any pasta.
     items:
       - slug: classic-fettuccini-alfredo
-        name: Classic Fettuccini Alfredo
-        description: Fresh fettuccine tossed in a silky parmesan cream sauce.
+        name: Fettuccini Alfredo
+        description: Creamy Alfredo sauce over fresh fettuccini.
         ingredients:
           - Fettuccine
           - Parmesan
@@ -183,8 +183,8 @@ sections:
           - Butter
           - Garlic
       - slug: pink-vodka-pasta
-        name: Pink Vodka Pasta
-        description: Pasta enveloped in a velvety tomato vodka cream sauce.
+        name: Penne Pink Vodka
+        description: Penne in a velvety pink vodka cream sauce.
         ingredients:
           - Pasta
           - Tomato sauce
@@ -235,8 +235,8 @@ sections:
           - Tomato sauce
           - Mozzarella
       - slug: gluten-free-garden-pasta
-        name: Gluten-Free Pasta
-        description: Gluten-free pasta with spinach, mushrooms, tomatoes, capers, and garlic tomato sauce topped with smoked gouda.
+        name: Gluten-Free Penne Pasta
+        description: Gluten-free penne with spinach, mushrooms, tomato, capers, and garlic tomato sauce.
         ingredients:
           - Gluten-free pasta
           - Spinach
@@ -258,8 +258,8 @@ sections:
           - Butter
           - Linguine
       - slug: calamari-shrimp-fra-diavolo
-        name: Calamari & Shrimp Fra Diavolo
-        description: Calamari and shrimp in spicy house tomato sauce over linguine.
+        name: Linguine Fra Diavolo
+        description: Shrimp and calamari in a spicy tomato sauce with garlic and basil over linguine.
         ingredients:
           - Calamari
           - Shrimp
@@ -269,7 +269,7 @@ sections:
           - Linguine
       - slug: sicilian-penne
         name: Sicilian Penne
-        description: Penne with sausage, eggplant, spinach, white beans, tomatoes, garlic, and blue cheese crumbs.
+        description: Penne with sausage, eggplant, spinach, white kidney beans, tomatoes, garlic, and Gorgonzola.
         ingredients:
           - Penne
           - Italian sausage
@@ -288,8 +288,8 @@ sections:
           - Beef meatballs
           - Tomato sauce
       - slug: cajun-chicken-shrimp-pasta
-        name: Cajun Chicken and Shrimp
-        description: Chicken and shrimp with spinach, mushrooms, and Cajun cream sauce over angel hair pasta.
+        name: Cajun Chicken & Shrimp Angel Hair
+        description: Chicken and shrimp with mushrooms, oven-dried tomato, creamy spinach over angel hair.
         ingredients:
           - Chicken breast
           - Shrimp
@@ -330,8 +330,8 @@ sections:
           - Tomato sauce
           - Mozzarella
       - slug: veal-parmesan
-        name: Veal Parmesan
-        description: Tender veal scallopini baked with tomato sauce and mozzarella.
+        name: Veal Parmigiana
+        description: Breaded veal scaloppini baked with tomato sauce and mozzarella.
         ingredients:
           - Veal scallopini
           - Tomato sauce
@@ -345,8 +345,8 @@ sections:
           - Tomato sauce
           - Mozzarella
       - slug: house-lasagna
-        name: Lasagna
-        description: Layers of pasta with pork, beef, and veal meat sauce, ricotta, and parmesan.
+        name: Meat Lasagna
+        description: Classic layered pasta with pork and veal meat sauce, ricotta, parmesan; finished with pink vodka sauce and basil oil.
         ingredients:
           - Pasta sheets
           - Pork
@@ -358,8 +358,8 @@ sections:
   - name: Fish Specialties
     items:
       - slug: salmon-piccata
-        name: Salmon Piccata
-        description: Grilled salmon with capers in white wine butter sauce served with vegetables and mashed potatoes.
+        name: Wild Salmon Piccata
+        description: Capers, lemon butter white wine, vegetables, whipped potatoes.
         ingredients:
           - Salmon
           - Capers
@@ -367,8 +367,8 @@ sections:
           - Seasonal vegetables
           - Mashed potatoes
       - slug: blackened-cod
-        name: Blackened Cod
-        description: Cajun-spiced cod with creamy spinach, tomatoes, white beans, and mashed potatoes.
+        name: Cajun Cod
+        description: Creamy spinach, tomato, white kidney beans, garlic, whipped potatoes.
         ingredients:
           - Cod
           - Cajun seasoning
@@ -378,16 +378,16 @@ sections:
           - Garlic
           - Mashed potatoes
       - slug: grilled-shrimp-plate
-        name: Grilled Shrimp
-        description: Grilled shrimp accompanied by vegetables, mashed potatoes, and roasted tomato basil sauce.
+        name: Gamberi Ala Griglia
+        description: Grilled shrimp, sautéed spinach, garlic, roasted tomato basil drizzle, whipped potatoes.
         ingredients:
           - Shrimp
           - Seasonal vegetables
           - Mashed potatoes
           - Roasted tomato basil sauce
       - slug: tuna-avocado-fusion
-        name: Tuna Avocado Fusion
-        description: Seared ahi tuna with avocado, roasted peppers, cucumber, onion, arugula, and roasted tomato basil drizzle with lemon.
+        name: Seared Rare Ahi Tuna
+        description: Avocado, roasted red pepper, braised red onion, roasted tomato basil oil, crostini.
         ingredients:
           - Ahi tuna
           - Avocado
@@ -465,15 +465,15 @@ sections:
           - Herbs
       - slug: chianti-meatloaf
         name: Meatloaf
-        description: House meatloaf glazed with Chianti demi-glace.
+        description: Chianti port wine demi, vegetables, whipped potatoes.
         ingredients:
           - Ground beef
           - Ground pork
           - Aromatics
           - Chianti demi-glace
       - slug: pork-chop-marsala
-        name: Pork Chop Marsala
-        description: Seared pork chops with mushroom Marsala wine sauce.
+        name: Ribeye Pork Chop Frostiera
+        description: Mushroom rosemary port wine demi, whipped potatoes.
         ingredients:
           - Pork chops
           - Mushrooms
@@ -499,7 +499,7 @@ sections:
           - Seasoning rub
       - slug: new-york-strip
         name: New York Strip
-        description: Grilled 14-ounce USDA Choice strip steak with optional mushroom Marsala sauce.
+        description: Mushroom Madeira sauce, vegetables, whipped potatoes.
         ingredients:
           - New York strip steak
           - House seasoning
