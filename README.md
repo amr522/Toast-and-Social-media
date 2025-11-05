@@ -154,6 +154,55 @@ python3 -m src.pipeline.run_once --dry-run
 4. **Drive sync**: Build upload service using credentials from `.env`
 5. **QA checklist**: Document manual approval workflow in `docs/qa.md`
 
+## Quickstart
+
+1) Install dependencies
+- Python 3.11+ recommended
+- `pip install -r requirements.txt`
+
+2) Configure environment
+- Copy `.env.example` to `.env` and fill in values (MiniMax API key, optional Drive/SMTP):
+  - `MINIMAX_API_KEY`, `MINIMAX_BASE_URL`
+  - `RATE_LIMIT_RPM`, `MAX_RETRIES`
+  - Optional: `GDRIVE_*`, `VOICE_PROFILE`, `MUSIC_VIBE`
+
+3) Validate inputs
+- Check menu ↔ image parity:
+  - `python3 -m src.tools.validate_assets`
+- Optionally verify generated assets for processed items:
+  - `python3 -m src.tools.validate_assets --check-generated`
+
+4) Run the orchestrator (single slug)
+- End-to-end: image → content → audio → video → platform bundles
+- `python -m src.pipeline.enhance --slug veal-piccata`
+- Limit platforms:
+  - `python -m src.pipeline.enhance --slug veal-piccata --platforms instagram_reel,tiktok`
+- Upload to Drive after render (if configured):
+  - `python -m src.pipeline.enhance --slug veal-piccata --sync-drive`
+
+5) Batch processing
+- Process N items with images (skips previously processed by default):
+  - `python -m src.scheduler.batch_processor --limit 10`
+- Upload to Drive during batch:
+  - `python -m src.scheduler.batch_processor --limit 10 --sync-drive`
+
+6) QA & Reporting
+- Generate a daily QA report (+ optional notifications):
+  - `python -m src.qa.reporter --email --webhook`
+- Reports saved to `build/qa_reports/`
+
+7) Drive Sync (standalone)
+- Upload prepared bundles to Drive (per slug):
+  - `python -m src.drive.sync --slug veal-piccata`
+- Auto-discover bundles:
+  - `python -m src.drive.sync`
+
+8) Docker
+- Build and run API for healthchecks:
+  - `docker compose build && docker compose up -d api`
+- One-shot batch via Compose:
+  - `docker compose run --rm batch`
+
 ## Contributing
 - Track progress with processed markers in `build/processed/`
 - Update `MISSING_IMAGES.md` after adding new images
