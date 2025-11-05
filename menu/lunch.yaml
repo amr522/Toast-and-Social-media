@@ -223,7 +223,7 @@ sections:
     notes: Add fries, mashed potato, side salad, or a cup of split pea for an extra charge.
     items:
       - slug: the-classic
-        name: The Classic
+        name: Classic American Burger
         description: 8 oz beef patty with American cheese, lettuce, tomato, red onion, and house sauce.
         ingredients:
           - Beef patty
@@ -249,15 +249,24 @@ sections:
           - Blue cheese
           - Caramelized onions
       - slug: burger-avocado-fusion
-        name: Burger Avocado Fusion
-        description: Beef patty topped with avocado, roasted red peppers, and roasted tomato basil drizzle.
+        name: Avocado Fusion Burger
+        description: Beef patty, avocado, roasted red peppers & onions, oven-dried tomatoes.
         ingredients:
           - Beef patty
           - Avocado
           - Roasted red peppers
-          - Roasted tomato basil drizzle
+          - Roasted red onions
+          - Oven-dried tomatoes
   - name: Flatbreads
     items:
+      - slug: margherita-flatbread
+        name: Margherita
+        description: Tomato, fresh mozzarella, basil.
+        ingredients:
+          - Flatbread dough
+          - Tomatoes
+          - Fresh mozzarella
+          - Basil
       - slug: mediterranean-bliss-flatbread
         name: Mediterranean Flatbread
         description: Kalamata olives, spinach, sun-dried tomato, caramelized onion, feta, mozzarella, and balsamic reduction with arugula.
@@ -303,13 +312,14 @@ sections:
           - Basil
       - slug: coastal-chicken-flatbread
         name: Coastal Chicken Flatbread
-        description: Grilled chicken with blue cheese spread, roasted red peppers, tomatoes, mozzarella, and hot sauce with arugula.
+        description: Chicken, blue cheese spread, roasted red peppers, tomato, bacon, mozzarella, hot sauce, arugula.
         ingredients:
           - Flatbread dough
           - Grilled chicken
           - Blue cheese spread
           - Roasted red peppers
           - Tomatoes
+          - Bacon
           - Mozzarella
           - Hot sauce
           - Arugula
@@ -512,3 +522,13 @@ sections:
         ingredients:
           - Mussels
           - Tomato or white wine sauce
+      - slug: po-boy-shrimp-sandwich
+        name: Po' Boy Shrimp Sandwich
+        description: Fried shrimp, lettuce, tomato, pickles, signature sauce, hoagie roll.
+        ingredients:
+          - Shrimp
+          - Lettuce
+          - Tomato
+          - Pickles
+          - Signature sauce
+          - Hoagie roll
