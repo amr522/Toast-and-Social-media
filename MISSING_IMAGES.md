@@ -1,113 +1,91 @@
 # Missing Menu Item Images
 
-**Last Updated:** November 4, 2025  
-**Total Missing:** 83 items
+**Last Updated:** November 5, 2025  
+**Total Missing (unique names):** 75
 
-The following menu items currently lack corresponding images in the `data/` directory. Images should be named using the slug format (e.g., `alfredo-linguine-or-penne.png` or `.jpg`).
+The following dishes currently lack corresponding images in the `data/` directory. This list is de‑duplicated by dish name across dinner and lunch — if a dish appears on both menus, one photo covers both. Images should be named using the canonical slug shown (e.g., `caesar-salad.jpg`), `.png` is also accepted.
 
-## Dinner Items
+## Shared (Dinner + Lunch)
 
-- alfredo-linguine-or-penne
-- baby-back-ribs
-- baby-shrimp-scampi-and-garlic-bread
-- blackened-cod
-- bruschetta-variety
-- cheese-ravioli
-- chicken-francaise
-- chicken-marsala
-- chicken-parmesan-sandwich
-- chicken-parmigiana
-- chicken-piccata
-- chicken-scampi
-- clams-portofino
-- classic-fettuccini-alfredo
-- fettuccini-bolognese
-- flatbread-variety
-- fried-breaded-mozzarella
-- gluten-free-garden-pasta
-- house-lasagna
-- meatballs-side
-- mussels-red-or-white
-- pink-vodka-linguine-or-penne
-- pink-vodka-pasta
-- pork-chop-marsala
-- quattro-formaggi-ravioli
-- sausage-parmesan
-- sausage-tomato-sauce
-- sauteed-broccoli
-- sauteed-spinach
-- shrimp-parmigiana
-- sicilian-penne
-- veal-capricciosa
-- veal-marsala
-- veal-parmesan
+- Avocado Fusion Delight (slug: `avocado-fusion-delight`)
+- Caesar Salad (slug: `caesar-salad`)
+- Capricciosa Salad (slug: `capricciosa-salad`)
+- Cheese Ravioli (slug: `cheese-ravioli`)
+- Chicken Marsala (slug: `chicken-marsala`)
+- Chicken Piccata (slug: `chicken-piccata`)
+- Clams Portofino (slug: `clams-portofino`)
+- Fettuccini Bolognese (slug: `fettuccini-bolognese`)
+- Fried Calamari (slug: `fried-calamari`)
+- House Salad (slug: `house-salad`)
+- Sicilian Penne (slug: `sicilian-penne`)
+- Soup of the Day (slug: `soup-of-the-day`)
+- Tuna Ceviche (slug: `tuna-ceviche`)
 
-## Lunch Items
+## Dinner‑Only
 
-- avocado-fusion-delight
-- burger-avocado-fusion
-- cajun-chicken-lunch
-- calamari-fra-diavolo-lunch
-- cheese-ravioli-lunch
-- chicken-avocado-fusion-sandwich
-- chicken-caprese-sandwich
-- chicken-francaise-lunch
-- chicken-marsala-lunch
-- chicken-parmesan-lunch
-- chicken-piccata-lunch
-- eggplant-parmigiana-lunch
-- fettuccini-bolognese-lunch
-- gluten-free-pasta-lunch
-- grilled-shrimp-plate
-- lasagna-lunch
-- linguine-with-meatballs-lunch
-- meatball-parmesan-sandwich
-- philly-cheesesteak
-- shrimp-parmesan-lunch
-- shrimp-parmesan-sandwich
-- sicilian-penne-lunch
-- veal-parmesan-sandwich
+- Baby Back Ribs (slug: `baby-back-ribs`)
+- Caprese (slug: `caprese-salad`)
+- Chicken Parmigiana (slug: `chicken-parmigiana`)
+- Chicken Scampi (slug: `chicken-scampi`)
+- Fettuccini Alfredo (slug: `classic-fettuccini-alfredo`)
+- Fried Breaded Fresh Mozzarella (slug: `fried-breaded-mozzarella`)
+- Gamberi Ala Griglia (slug: `grilled-shrimp-plate`)
+- Gluten‑Free Penne Pasta (slug: `gluten-free-garden-pasta`)
+- Meat Lasagna (slug: `house-lasagna`)
+- Meatballs with Tomato Sauce (slug: `meatballs-side`)
+- Penne Pink Vodka (slug: `pink-vodka-pasta`)
+- Quattro Formaggi Ravioli (slug: `quattro-formaggi-ravioli`)
+- Ribeye Pork Chop Frostiera (slug: `pork-chop-marsala`)
+- Salad Protein Add‑Ons (slug: `salad-protein-addons`)
+- Sausage with Tomato Sauce (slug: `sausage-tomato-sauce`)
+- Sautéed Broccoli (slug: `sauteed-broccoli`)
+- Sautéed Spinach (slug: `sauteed-spinach`)
+- Shrimp Parmigiana (slug: `shrimp-parmigiana`)
+- Veal Capricciosa (slug: `veal-capricciosa`)
+- Veal Marsala (slug: `veal-marsala`)
+- Veal Parmigiana (slug: `veal-parmesan`)
 
-## Sandwiches & Burgers
+## Lunch‑Only
 
-- black-and-blue-cajun-burger
-- smoky-bbq-bacon-burger
-
-## Happy Hour Items
-
-- calamari-hh
-- chicken-tenders-hh
-- mussels-hh
-- wings-hh
-
-## Salads
-
-- caesar-salad
-- caprese-salad
-- capricciosa-salad
-- house-salad
-- salad-addons
-- salad-protein-addons
-
-## Appetizers
-
-- caprese
-- chicken-wings
-- fried-calamari
-- fried-mozzarella
-- fried-ravioli
-- mozzarella-and-tomato-tower
-- soup-of-the-day
-- tuna-ceviche
-
-## Flatbreads
-
-- coastal-chicken-flatbread
-- mediterranean-bliss-flatbread
-- pesto-chicken-delight-flatbread
-- pietros-fig-bacon-flatbread
-- shrimp-sensation-flatbread
-- tuscan-roasted-chicken-flatbread
+- Alfredo (Linguine or Penne) (slug: `alfredo-linguine-or-penne`)
+- Avocado Fusion Burger (slug: `burger-avocado-fusion`)
+- Baby Shrimp Scampi and Garlic Bread (slug: `baby-shrimp-scampi-and-garlic-bread`)
+- BBQ Bacon Burger (slug: `smoky-bbq-bacon-burger`)
+- Bruschetta Trio (slug: `bruschetta-variety`)
+- Cajun Chicken (slug: `cajun-chicken-lunch`)
+- Calamari (Happy Hour) (slug: `calamari-hh`)
+- Calamari Fra Diavolo (slug: `calamari-fra-diavolo-lunch`)
+- Caprese Salad (slug: `caprese`)
+- Chicken Avocado Fusion (slug: `chicken-avocado-fusion-sandwich`)
+- Chicken Caprese (slug: `chicken-caprese-sandwich`)
+- Chicken Parmesan (slug: `chicken-parmesan-lunch`)
+- Chicken Parmesan Sandwich (slug: `chicken-parmesan-sandwich`)
+- Chicken Tenders with Honey Mustard (slug: `chicken-tenders-hh`)
+- Chicken Wings (slug: `chicken-wings`)
+- Coastal Chicken Flatbread (slug: `coastal-chicken-flatbread`)
+- Flatbread Variety (slug: `flatbread-variety`)
+- Fried Fresh Mozzarella (slug: `fried-mozzarella`)
+- Fried Ravioli (slug: `fried-ravioli`)
+- Gluten‑Free Pasta (slug: `gluten-free-pasta-lunch`)
+- Lasagna (slug: `lasagna-lunch`)
+- Margherita (slug: `margherita-flatbread`)
+- Meatball Parmesan (slug: `meatball-parmesan-sandwich`)
+- Mediterranean Flatbread (slug: `mediterranean-bliss-flatbread`)
+- Mozzarella and Tomato Tower (slug: `mozzarella-and-tomato-tower`)
+- Mushroom Swiss Burger (slug: `black-and-blue-cajun-burger`)
+- Mussels (Happy Hour) (slug: `mussels-hh`)
+- Pesto Chicken Delight Flatbread (slug: `pesto-chicken-delight-flatbread`)
+- Philly Cheesesteak (slug: `philly-cheesesteak`)
+- Pietro's Fig & Bacon Flatbread (slug: `pietros-fig-bacon-flatbread`)
+- Pink Vodka (Linguine or Penne) (slug: `pink-vodka-linguine-or-penne`)
+- Shrimp Parmesan (slug: `shrimp-parmesan-lunch`)
+- Shrimp Parmesan Sandwich (slug: `shrimp-parmesan-sandwich`)
+- Sicilian Penne (Lunch) (slug: `sicilian-penne-lunch`)
+- Linguine with Meatballs (Lunch) (slug: `linguine-with-meatballs-lunch`)
+- Chicken Francaise (Lunch) (slug: `chicken-francaise-lunch`)
+- Chicken Piccata (Lunch) (slug: `chicken-piccata-lunch`)
+- Chicken Marsala (Lunch) (slug: `chicken-marsala-lunch`)
+- Eggplant Parmigiana (Lunch) (slug: `eggplant-parmigiana-lunch`)
 
 ---
 
@@ -129,9 +107,9 @@ The following menu items currently lack corresponding images in the `data/` dire
 
 ## Tracking Progress
 
-After adding images, this file will be automatically updated by running:
+After adding images, rebuild the manifest and update this list with:
 ```bash
-python3 -m src.tools.validate_assets --update-missing-list
+python3 -m src.tools.validate_assets --verbose
 ```
 
 The validation script also generates a `build/manifest.csv` that tracks the current state of all menu items.
