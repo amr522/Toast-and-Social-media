@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+.git
+.github
+.mcp
+.venv
+venv
+build
+archive
+.env
+*.log
+.DS_Store
+node_modules
+tests/__pycache__
+*.pytest_cache
+.pytest_cache
+infra/backup/backups

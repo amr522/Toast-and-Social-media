@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  api:
+    build: .
+    image: minimax-pipeline:latest
+    container_name: minimax-api
+    ports:
+      - "8080:8080"
+    env_file:
+      - ./.env
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:8080/health || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+
+  # Optional: run a one-shot daily job via host cron or scheduler platform.
+  # Example helper service to execute the batch processor manually:
+  batch:
+    image: minimax-pipeline:latest
+    container_name: minimax-batch
+    depends_on:
+      - api
+    env_file:
+      - ./.env
+    entrypoint: ["python", "-m", "src.scheduler.batch_processor", "--limit", "10"]
+    restart: "no"
+

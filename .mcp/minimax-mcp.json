@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "MiniMax": {
+      "command": "uvx",
+      "args": ["minimax-mcp"],
+      "env": {
+        "MINIMAX_API_KEY": "Enter your API key",
+        "MINIMAX_MCP_BASE_PATH": "Local output directory path, e.g., /User/xxx/Desktop; ensure the path exists and is writable",
+        "MINIMAX_API_HOST": "https://api.minimax.io",
+        "MINIMAX_API_RESOURCE_MODE": "Optional. Specifies how generated resources are exposed. Options: [url | local]. Default: url"
+      },
+      "transport": "Optional: transport mode. Options: [studio|SSE], default: studio"
+    }
+  }
+}

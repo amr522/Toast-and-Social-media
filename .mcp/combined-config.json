@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "Context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"]
+    },
+    "MiniMax": {
+      "command": "npx",
+      "args": ["-y", "minimax-mcp-js"],
+      "env": {
+        "MINIMAX_API_KEY": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJHcm91cE5hbWUiOiJPbWFyIElzbWFpbCIsIlVzZXJOYW1lIjoiT21hciBJc21haWwiLCJBY2NvdW50IjoiIiwiU3ViamVjdElEIjoiMTk4NDc5OTA1NjIwNzAyODM3NSIsIlBob25lIjoiIiwiR3JvdXBJRCI6IjE5ODQ3OTkwNTYyMDI4Mjk5NzUiLCJQYWdlTmFtZSI6IiIsIk1haWwiOiJhbXI1MjJAZ21haWwuY29tIiwiQ3JlYXRlVGltZSI6IjIwMjUtMTEtMDIgMTA6MTM6MzAiLCJUb2tlblR5cGUiOjEsImlzcyI6Im1pbmltYXgifQ.PtD9EM1iM9La0ZIIQaPiCn0pRezSTwnj7AR__1nZP-WdOgQeOUaGFr7GBhPiZOebxNgIY9ZPgKcpsRvB2TR5ZiiGF10Peo_T_seTAl-MWksiYuUGhOnBtSTqXblorDEITvEAn6VhRuBmJ5j3wuBWhgI1tuIvT-T_7sxvqHRYyZrEc5woOAlvnKJPdVp-qWYIJk9ssMXyPzz04FO_wowwn-WvD3aFVz5gVTI603rUO8v_vZJU36weKTk_fw_Gru6OY7HfnsTUKThYp_P4EvaDi46kdv9pAMKY8D-MH-yutQNoo71JkyTWg6lGyBzCG2N8CcpwnL8-fqkjAxC0MOhUlA",
+        "MINIMAX_MCP_BASE_PATH": "/Users/Heidak/Downloads/Toast-and-Social-media-main/build",
+        "MINIMAX_API_HOST": "https://api.minimax.io",
+        "MINIMAX_API_RESOURCE_MODE": "local"
+      },
+      "transport": "studio"
+    }
+  }
+}<parameter name="filePath">/Users/Heidak/Downloads/Toast-and-Social-media-main/.mcp/combined-config.json

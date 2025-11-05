@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "MiniMax": {
+      "command": "uvx",
+      "args": ["minimax-mcp"],
+      "env": {
+        "MINIMAX_API_KEY": "${MINIMAX_API_KEY}",
+        "MINIMAX_MCP_BASE_PATH": "/Users/Heidak/Downloads/Toast-and-Social-media-main/build",
+        "MINIMAX_API_HOST": "https://api.minimax.io",
+        "MINIMAX_API_RESOURCE_MODE": "local"
+      },
+      "transport": "studio"
+    }
+  }
+}
